@@ -1,0 +1,2 @@
+
+37c840672da0026000aa1b4cf3bb832b74af2f15	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/minipass","integrity":null,"time":1672821173248,"size":"262","metadata":{"time":1672821173248,"url":"https://registry.npm.taobao.org/minipass","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:53 GMT","location":"https://registry.npmmirror.com/minipass"},"options":{"compress":true},"status":301}}

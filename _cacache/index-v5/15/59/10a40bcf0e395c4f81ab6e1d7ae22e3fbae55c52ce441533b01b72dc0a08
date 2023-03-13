@@ -1,0 +1,2 @@
+
+8b1c46b99b64f088d19a7a1d7903e6a662ddb509	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/string_decoder/download/string_decoder-1.1.1.tgz","integrity":null,"time":1678195526754,"size":"262","metadata":{"time":1678195526754,"url":"https://registry.nlark.com/string_decoder/download/string_decoder-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/string_decoder/download/string_decoder-1.1.1.tgz"},"options":{"compress":true},"status":301}}

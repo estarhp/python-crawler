@@ -1,0 +1,2 @@
+
+49624984a2243a973b52f8eaf41a3583b8b1d5bd	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vue%2fcli-service","integrity":null,"time":1672821165884,"size":"262","metadata":{"time":1672821165883,"url":"https://registry.npm.taobao.org/@vue%2fcli-service","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:45 GMT","location":"https://registry.npmmirror.com/@vue%2fcli-service"},"options":{"compress":true},"status":301}}

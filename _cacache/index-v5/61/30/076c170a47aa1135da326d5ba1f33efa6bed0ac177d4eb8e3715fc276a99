@@ -1,0 +1,2 @@
+
+cfc8f531ac45c7a2184fd45fe8056ccf96f0c7b9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/thenify-all","integrity":null,"time":1672821176782,"size":"262","metadata":{"time":1672821176782,"url":"https://registry.npm.taobao.org/thenify-all","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:56 GMT","location":"https://registry.npmmirror.com/thenify-all"},"options":{"compress":true},"status":301}}

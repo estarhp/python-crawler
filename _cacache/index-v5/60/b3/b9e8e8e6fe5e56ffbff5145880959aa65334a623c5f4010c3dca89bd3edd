@@ -1,0 +1,2 @@
+
+8833ec3a5a1b07dcc4a34cac89d578b5426b17b8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/webpack-bundle-analyzer","integrity":null,"time":1672821166915,"size":"262","metadata":{"time":1672821166915,"url":"https://registry.npm.taobao.org/webpack-bundle-analyzer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:46 GMT","location":"https://registry.npmmirror.com/webpack-bundle-analyzer"},"options":{"compress":true},"status":301}}

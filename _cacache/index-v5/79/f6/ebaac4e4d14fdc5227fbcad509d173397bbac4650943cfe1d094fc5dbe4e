@@ -1,0 +1,2 @@
+
+244b06f4ea3f29f00a295db85e464b458b535894	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/node-rsa","integrity":null,"time":1676992897552,"size":"262","metadata":{"time":1676992897552,"url":"https://registry.npm.taobao.org/node-rsa","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Tue, 21 Feb 2023 15:21:36 GMT","location":"https://registry.npmmirror.com/node-rsa"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+8274b9745c6ecf3e90288eff091005b87bf0f2b2	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/mdn-data/download/mdn-data-2.0.14.tgz","integrity":null,"time":1678195528500,"size":"262","metadata":{"time":1678195528500,"url":"https://registry.nlark.com/mdn-data/download/mdn-data-2.0.14.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/mdn-data/download/mdn-data-2.0.14.tgz"},"options":{"compress":true},"status":301}}

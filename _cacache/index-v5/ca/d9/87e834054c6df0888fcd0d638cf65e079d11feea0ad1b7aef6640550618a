@@ -1,0 +1,2 @@
+
+9cfcceb7dbd78a19b948a46fbc527a7f10108b1f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/yorkie","integrity":null,"time":1672821166483,"size":"262","metadata":{"time":1672821166482,"url":"https://registry.npm.taobao.org/yorkie","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:46 GMT","location":"https://registry.npmmirror.com/yorkie"},"options":{"compress":true},"status":301}}

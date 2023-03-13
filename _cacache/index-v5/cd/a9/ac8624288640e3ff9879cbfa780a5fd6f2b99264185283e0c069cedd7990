@@ -1,0 +1,2 @@
+
+7e1805578399abd86d394810a3d53d67f0c69d2b	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/uuid/download/uuid-3.4.0.tgz","integrity":null,"time":1678195526695,"size":"262","metadata":{"time":1678195526695,"url":"https://registry.nlark.com/uuid/download/uuid-3.4.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/uuid/download/uuid-3.4.0.tgz"},"options":{"compress":true},"status":301}}

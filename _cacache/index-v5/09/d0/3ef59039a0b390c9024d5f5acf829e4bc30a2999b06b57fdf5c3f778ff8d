@@ -1,0 +1,2 @@
+
+c3b664b658254b08ae08d1cf20e33a5bdcef0fd6	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/npm-run-path/download/npm-run-path-4.0.1.tgz","integrity":null,"time":1678195528497,"size":"262","metadata":{"time":1678195528497,"url":"https://registry.nlark.com/npm-run-path/download/npm-run-path-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/npm-run-path/download/npm-run-path-4.0.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+b899e8662647f4feac55fc74404f59b2b49dfd73	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/serve-static/download/serve-static-1.14.1.tgz","integrity":null,"time":1678195527125,"size":"262","metadata":{"time":1678195527125,"url":"https://registry.npm.taobao.org/serve-static/download/serve-static-1.14.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/serve-static/download/serve-static-1.14.1.tgz"},"options":{"compress":true},"status":301}}

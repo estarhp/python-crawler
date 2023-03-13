@@ -1,0 +1,2 @@
+
+36f36e0d1dd33398e03fcfbc71c131fbb7deb1e3	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/optionator","integrity":null,"time":1672821209307,"size":"262","metadata":{"time":1672821209307,"url":"https://registry.npm.taobao.org/optionator","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:29 GMT","location":"https://registry.npmmirror.com/optionator"},"options":{"compress":true},"status":301}}

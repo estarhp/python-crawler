@@ -1,0 +1,2 @@
+
+d986b413b834d802cc0ec8654b47c952f38d3c15	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/dom-serializer","integrity":null,"time":1672821186208,"size":"262","metadata":{"time":1672821186208,"url":"https://registry.npm.taobao.org/dom-serializer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:05 GMT","location":"https://registry.npmmirror.com/dom-serializer"},"options":{"compress":true},"status":301}}

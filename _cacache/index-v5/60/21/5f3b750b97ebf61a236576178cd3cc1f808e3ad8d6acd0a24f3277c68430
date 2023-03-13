@@ -1,0 +1,2 @@
+
+e799db4e1162c7e601db7c7503cd427b66e13202	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/process/download/process-0.11.10.tgz","integrity":null,"time":1678195527305,"size":"262","metadata":{"time":1678195527305,"url":"https://registry.npm.taobao.org/process/download/process-0.11.10.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/process/download/process-0.11.10.tgz"},"options":{"compress":true},"status":301}}

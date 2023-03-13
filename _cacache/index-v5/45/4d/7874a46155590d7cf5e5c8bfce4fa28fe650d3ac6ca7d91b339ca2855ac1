@@ -1,0 +1,2 @@
+
+283ab8370217886488258d11bd6ee0d326df0880	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/errno/download/errno-0.1.8.tgz","integrity":null,"time":1678195528502,"size":"262","metadata":{"time":1678195528502,"url":"https://registry.npm.taobao.org/errno/download/errno-0.1.8.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/errno/download/errno-0.1.8.tgz"},"options":{"compress":true},"status":301}}

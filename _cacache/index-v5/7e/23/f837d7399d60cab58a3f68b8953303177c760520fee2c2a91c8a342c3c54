@@ -1,0 +1,2 @@
+
+9e5a15278e6ec703def8f46826d4eb5e2cd998b2	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vue-style-loader","integrity":null,"time":1672821166915,"size":"262","metadata":{"time":1672821166915,"url":"https://registry.npm.taobao.org/vue-style-loader","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:46 GMT","location":"https://registry.npmmirror.com/vue-style-loader"},"options":{"compress":true},"status":301}}

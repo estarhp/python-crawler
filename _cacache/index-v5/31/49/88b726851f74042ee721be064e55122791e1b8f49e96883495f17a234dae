@@ -1,0 +1,2 @@
+
+c514cc09dd9a71b862871c297cfa0e99c52095f7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@xtuc%2fieee754","integrity":null,"time":1672821188060,"size":"262","metadata":{"time":1672821188060,"url":"https://registry.npm.taobao.org/@xtuc%2fieee754","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:07 GMT","location":"https://registry.npmmirror.com/@xtuc%2fieee754"},"options":{"compress":true},"status":301}}

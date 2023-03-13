@@ -1,0 +1,2 @@
+
+9027268f1b2b2bdf8cd6bda4d8ade9bc6c704307	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/parent-module/download/parent-module-1.0.1.tgz","integrity":null,"time":1678195527440,"size":"262","metadata":{"time":1678195527440,"url":"https://registry.npm.taobao.org/parent-module/download/parent-module-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/parent-module/download/parent-module-1.0.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+67ae6f35e6dd300fa123cc5376ddb0e24b04d368	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/run-async/download/run-async-2.4.1.tgz","integrity":null,"time":1678195527168,"size":"262","metadata":{"time":1678195527168,"url":"https://registry.npm.taobao.org/run-async/download/run-async-2.4.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/run-async/download/run-async-2.4.1.tgz"},"options":{"compress":true},"status":301}}

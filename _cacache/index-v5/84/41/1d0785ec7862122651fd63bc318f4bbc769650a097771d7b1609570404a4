@@ -1,0 +1,2 @@
+
+54cc0606b4e6c92b39c043ce4d500054dc20b574	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/espree","integrity":null,"time":1672821209734,"size":"262","metadata":{"time":1672821209734,"url":"https://registry.npm.taobao.org/espree","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:29 GMT","location":"https://registry.npmmirror.com/espree"},"options":{"compress":true},"status":301}}

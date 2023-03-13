@@ -1,0 +1,2 @@
+
+f989662efbcf6b3e41bceed14cf921ca90b4e16e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/bluebird","integrity":null,"time":1672821174983,"size":"262","metadata":{"time":1672821174983,"url":"https://registry.npm.taobao.org/bluebird","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:54 GMT","location":"https://registry.npmmirror.com/bluebird"},"options":{"compress":true},"status":301}}

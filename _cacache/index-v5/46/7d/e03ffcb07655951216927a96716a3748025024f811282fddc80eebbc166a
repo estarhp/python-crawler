@@ -1,0 +1,2 @@
+
+5f9cfe6c7f4d82fb5c8a8e995261113c79fd9535	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/colorette","integrity":null,"time":1672821173400,"size":"262","metadata":{"time":1672821173400,"url":"https://registry.npm.taobao.org/colorette","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:53 GMT","location":"https://registry.npmmirror.com/colorette"},"options":{"compress":true},"status":301}}

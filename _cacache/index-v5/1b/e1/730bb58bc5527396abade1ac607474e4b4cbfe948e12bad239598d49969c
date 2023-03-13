@@ -1,0 +1,2 @@
+
+acda8e28762cebf63cde354052713181ee49c198	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/copy-descriptor/download/copy-descriptor-0.1.1.tgz","integrity":null,"time":1678195527384,"size":"262","metadata":{"time":1678195527384,"url":"https://registry.nlark.com/copy-descriptor/download/copy-descriptor-0.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/copy-descriptor/download/copy-descriptor-0.1.1.tgz"},"options":{"compress":true},"status":301}}

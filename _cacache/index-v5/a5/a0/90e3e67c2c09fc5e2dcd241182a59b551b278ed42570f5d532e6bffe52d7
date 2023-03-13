@@ -1,0 +1,2 @@
+
+c2751ea348451ab443fe17db7d3f1778d625310e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vue%2fbabel-sugar-v-on","integrity":null,"time":1672821169891,"size":"262","metadata":{"time":1672821169891,"url":"https://registry.npm.taobao.org/@vue%2fbabel-sugar-v-on","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:49 GMT","location":"https://registry.npmmirror.com/@vue%2fbabel-sugar-v-on"},"options":{"compress":true},"status":301}}

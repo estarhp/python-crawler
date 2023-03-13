@@ -1,0 +1,2 @@
+
+79e829ae34f126f2259c7fffea4970c031d781db	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/find-up/download/find-up-1.1.2.tgz","integrity":null,"time":1678195528410,"size":"262","metadata":{"time":1678195528410,"url":"https://registry.nlark.com/find-up/download/find-up-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/find-up/download/find-up-1.1.2.tgz"},"options":{"compress":true},"status":301}}

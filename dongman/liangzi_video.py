@@ -22,7 +22,7 @@ headers={
 
 
 def getm3u8():
-    url='http://lzizy.net/index.php/vod/detail/id/42499.html'
+    url='https://cj.lziapi.com/index.php/vod/detail/id/48245.html'
     result=requests.get(url,headers)
     list=re.findall(r'<input name="copy_lzm3u8\[]" type="checkbox" value="(.*?)" checked>&nbsp;&nbsp;',result.text)
     title=re.findall(r'片名：(.*?)</p>',result.text,re.S)
@@ -81,18 +81,23 @@ if __name__ == '__main__':
     # loop=asyncio.get_event_loop()
     # loop.run_until_complete(main(geturls()))
     # merge(list)
-    title=getm3u8()[1][0]
-    for i in getm3u8()[0] :
-        character=i.split('$')[0]
-        url=i.split('$')[1]
-        list=geturls(url)
-        # print(list)
-        loop=asyncio.get_event_loop()
-        loop.run_until_complete(main(list))
-        print('ts下载完毕')
-        merge(list,character,title)
-        print(f'{character}完成')
-        time.sleep(3)
+    getm3u8=getm3u8()
+    title=getm3u8[1][0]
+    for i in getm3u8[0] :
+        print(getm3u8[0].index(i))
+        if(getm3u8[0].index(i)>-1):
+            character=i.split('$')[0]
+            url=i.split('$')[1]
+            list=geturls(url)
+            # print(list)
+            loop=asyncio.get_event_loop()
+            loop.run_until_complete(main(list))
+            print('ts下载完毕')
+            merge(list,character,title)
+            print(f'{character}完成')
+            time.sleep(3)
+        else:
+            continue
     print('全部下载完毕')
 
 

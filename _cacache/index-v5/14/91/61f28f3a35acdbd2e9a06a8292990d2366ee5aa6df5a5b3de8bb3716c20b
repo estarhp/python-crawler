@@ -1,0 +1,2 @@
+
+46d06e2e333f4f9240acfeac2c25dc1551b6d909	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/opn/download/opn-5.5.0.tgz","integrity":null,"time":1678195527520,"size":"262","metadata":{"time":1678195527520,"url":"https://registry.npm.taobao.org/opn/download/opn-5.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/opn/download/opn-5.5.0.tgz"},"options":{"compress":true},"status":301}}

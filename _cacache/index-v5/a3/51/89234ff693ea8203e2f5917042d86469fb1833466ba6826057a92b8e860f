@@ -1,0 +1,2 @@
+
+ca893f7c0cebb9086566d080ade7b2931223521b	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/inflight/download/inflight-1.0.6.tgz","integrity":null,"time":1678195527092,"size":"262","metadata":{"time":1678195527092,"url":"https://registry.nlark.com/inflight/download/inflight-1.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/inflight/download/inflight-1.0.6.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2df673045aa5d6ae0061c6838226dafe6b254656	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/postcss-svgo","integrity":null,"time":1672821177661,"size":"262","metadata":{"time":1672821177661,"url":"https://registry.npm.taobao.org/postcss-svgo","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:57 GMT","location":"https://registry.npmmirror.com/postcss-svgo"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+3bea3a61f5a30dcce8fdf2cdc848f40b0785fbdb	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/run-queue/download/run-queue-1.0.3.tgz","integrity":null,"time":1678195527153,"size":"262","metadata":{"time":1678195527153,"url":"https://registry.npm.taobao.org/run-queue/download/run-queue-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/run-queue/download/run-queue-1.0.3.tgz"},"options":{"compress":true},"status":301}}

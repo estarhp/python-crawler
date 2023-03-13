@@ -1,0 +1,2 @@
+
+ea108d08bc1af6b5e4c765fa56039e7abe7d9e90	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/strip-indent","integrity":null,"time":1672821172640,"size":"262","metadata":{"time":1672821172640,"url":"https://registry.npm.taobao.org/strip-indent","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:52 GMT","location":"https://registry.npmmirror.com/strip-indent"},"options":{"compress":true},"status":301}}

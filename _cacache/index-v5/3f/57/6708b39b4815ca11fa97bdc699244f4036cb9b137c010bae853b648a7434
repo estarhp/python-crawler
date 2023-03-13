@@ -1,0 +1,2 @@
+
+115a6eb9045a74586fc34705f53359f71a819019	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/postcss-convert-values","integrity":null,"time":1672821177438,"size":"262","metadata":{"time":1672821177438,"url":"https://registry.npm.taobao.org/postcss-convert-values","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:57 GMT","location":"https://registry.npmmirror.com/postcss-convert-values"},"options":{"compress":true},"status":301}}

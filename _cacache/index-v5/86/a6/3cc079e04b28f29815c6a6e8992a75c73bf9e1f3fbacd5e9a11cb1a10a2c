@@ -1,0 +1,2 @@
+
+f7866bb87b8a59446b9e0be8778ba8fe92045b45	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/diffie-hellman/download/diffie-hellman-5.0.3.tgz","integrity":null,"time":1678195528595,"size":"262","metadata":{"time":1678195528595,"url":"https://registry.npm.taobao.org/diffie-hellman/download/diffie-hellman-5.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/diffie-hellman/download/diffie-hellman-5.0.3.tgz"},"options":{"compress":true},"status":301}}

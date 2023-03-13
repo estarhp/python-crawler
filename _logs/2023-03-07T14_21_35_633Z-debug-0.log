@@ -1,0 +1,69 @@
+0 verbose cli D:\node.exe C:\Users\86139\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@9.2.0
+2 info using node@v16.18.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:C:\Users\86139\AppData\Roaming\npm\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 2ms
+10 timing config:load:file:C:\Users\86139\.npmrc Completed in 1ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:C:\Users\86139\AppData\Roaming\npm\etc\npmrc Completed in 0ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:setEnvs Completed in 0ms
+15 timing config:load Completed in 10ms
+16 timing npm:load:configload Completed in 10ms
+17 timing npm:load:mkdirpcache Completed in 1ms
+18 timing npm:load:mkdirplogs Completed in 1ms
+19 verbose title npm i nanoid
+20 verbose argv "i" "nanoid" "--global"
+21 timing npm:load:setTitle Completed in 1ms
+22 timing config:load:flatten Completed in 1ms
+23 timing npm:load:display Completed in 1ms
+24 verbose logfile logs-max:10 dir:D:\Desktop\python\_logs\2023-03-07T14_21_35_633Z-
+25 verbose logfile D:\Desktop\python\_logs\2023-03-07T14_21_35_633Z-debug-0.log
+26 timing npm:load:logFile Completed in 4ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 20ms
+30 timing config:load:flatten Completed in 1ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile start cleaning logs, removing 7 files
+33 timing idealTree:init Completed in 5ms
+34 timing idealTree:userRequests Completed in 2ms
+35 silly idealTree buildDeps
+36 silly fetch manifest nanoid@*
+37 silly logfile done cleaning log files
+38 http fetch GET 200 https://registry.npmmirror.com/nanoid 397ms (cache revalidated)
+39 silly placeDep ROOT nanoid@4.0.1 OK for:  want: *
+40 timing idealTree:#root Completed in 403ms
+41 timing idealTree:node_modules/nanoid Completed in 0ms
+42 timing idealTree:buildDeps Completed in 404ms
+43 timing idealTree:fixDepFlags Completed in 0ms
+44 timing idealTree Completed in 413ms
+45 timing reify:loadTrees Completed in 415ms
+46 timing reify:diffTrees Completed in 1ms
+47 silly reify moves {}
+48 timing reify:retireShallow Completed in 1ms
+49 timing reify:createSparse Completed in 1ms
+50 timing reify:loadBundles Completed in 0ms
+51 silly tarball no local data for nanoid@https://registry.npmmirror.com/nanoid/-/nanoid-4.0.1.tgz. Extracting by manifest.
+52 http fetch GET 200 https://cdn.npmmirror.com/packages/nanoid/4.0.1/nanoid-4.0.1.tgz 320ms (cache miss)
+53 timing reifyNode:node_modules/nanoid Completed in 343ms
+54 timing reify:unpack Completed in 344ms
+55 timing reify:unretire Completed in 0ms
+56 timing build:queue Completed in 1ms
+57 timing build:link:node_modules/nanoid Completed in 8ms
+58 timing build:link Completed in 8ms
+59 timing build:deps Completed in 9ms
+60 timing build Completed in 9ms
+61 timing reify:build Completed in 9ms
+62 timing reify:trash Completed in 0ms
+63 timing reify Completed in 776ms
+64 silly ADD node_modules/nanoid
+65 timing command:i Completed in 779ms
+66 verbose exit 0
+67 timing npm Completed in 818ms
+68 info ok

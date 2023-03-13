@@ -1,0 +1,2 @@
+
+f6a801eec126bb882dc2ba0ed30ba341458ba252	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/cssesc","integrity":null,"time":1672821174997,"size":"262","metadata":{"time":1672821174997,"url":"https://registry.npm.taobao.org/cssesc","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:54 GMT","location":"https://registry.npmmirror.com/cssesc"},"options":{"compress":true},"status":301}}

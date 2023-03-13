@@ -1,0 +1,2 @@
+
+2e857fc1dc4ed153eb7a182e5689e06fc4a080a9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/lodash/download/lodash-4.17.21.tgz","integrity":null,"time":1678195527828,"size":"262","metadata":{"time":1678195527828,"url":"https://registry.npm.taobao.org/lodash/download/lodash-4.17.21.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/lodash/download/lodash-4.17.21.tgz"},"options":{"compress":true},"status":301}}

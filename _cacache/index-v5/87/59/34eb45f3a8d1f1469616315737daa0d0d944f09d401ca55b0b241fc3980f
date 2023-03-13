@@ -1,0 +1,2 @@
+
+81f982f98895b0fcb0072c26581d32d3599d4ebd	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/original/download/original-1.0.2.tgz","integrity":null,"time":1678195527485,"size":"262","metadata":{"time":1678195527485,"url":"https://registry.npm.taobao.org/original/download/original-1.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/original/download/original-1.0.2.tgz"},"options":{"compress":true},"status":301}}

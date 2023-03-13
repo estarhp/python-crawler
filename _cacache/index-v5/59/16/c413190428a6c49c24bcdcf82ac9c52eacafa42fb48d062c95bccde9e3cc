@@ -1,0 +1,2 @@
+
+9bbabe2b7ebd3473908959a81855ac006d7a3b23	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.2.tgz","integrity":null,"time":1678195527150,"size":"262","metadata":{"time":1678195527150,"url":"https://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/safe-buffer/download/safe-buffer-5.1.2.tgz"},"options":{"compress":true},"status":301}}

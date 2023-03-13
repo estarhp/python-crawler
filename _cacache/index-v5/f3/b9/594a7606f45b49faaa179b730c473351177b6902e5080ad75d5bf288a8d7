@@ -1,0 +1,2 @@
+
+8f666cdcd1f0f83188af319cf7667f0f0dab8166	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vue%2fcli-overlay","integrity":null,"time":1672821166485,"size":"262","metadata":{"time":1672821166485,"url":"https://registry.npm.taobao.org/@vue%2fcli-overlay","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:46 GMT","location":"https://registry.npmmirror.com/@vue%2fcli-overlay"},"options":{"compress":true},"status":301}}

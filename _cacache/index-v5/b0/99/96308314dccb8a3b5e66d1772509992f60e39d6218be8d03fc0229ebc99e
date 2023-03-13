@@ -1,0 +1,2 @@
+
+413ba7253d7ec002c56c488298320e3684cb2b41	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/function-bind/download/function-bind-1.1.1.tgz","integrity":null,"time":1678195527129,"size":"262","metadata":{"time":1678195527128,"url":"https://registry.nlark.com/function-bind/download/function-bind-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/function-bind/download/function-bind-1.1.1.tgz"},"options":{"compress":true},"status":301}}

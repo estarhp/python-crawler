@@ -1,0 +1,2 @@
+
+dac1f75c2772ae4f5236f7ba89f727d37dc8c6f9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vue%2fcli-plugin-eslint","integrity":null,"time":1672821165576,"size":"262","metadata":{"time":1672821165576,"url":"https://registry.npm.taobao.org/@vue%2fcli-plugin-eslint","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:45 GMT","location":"https://registry.npmmirror.com/@vue%2fcli-plugin-eslint"},"options":{"compress":true},"status":301}}

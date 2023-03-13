@@ -1,0 +1,2 @@
+
+1f5a591fd0e3b1d337c88ff4722db406099835eb	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/websocket-driver","integrity":null,"time":1672821188559,"size":"262","metadata":{"time":1672821188559,"url":"https://registry.npm.taobao.org/websocket-driver","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:08 GMT","location":"https://registry.npmmirror.com/websocket-driver"},"options":{"compress":true},"status":301}}
