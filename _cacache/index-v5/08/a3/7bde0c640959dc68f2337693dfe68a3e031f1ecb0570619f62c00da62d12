@@ -1,2 +1,0 @@
-
-9b67441cb5d4f9b68a9257229cd237b5be5c01b9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/file-entry-cache/download/file-entry-cache-5.0.1.tgz","integrity":null,"time":1678195528377,"size":"262","metadata":{"time":1678195528377,"url":"https://registry.npm.taobao.org/file-entry-cache/download/file-entry-cache-5.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/file-entry-cache/download/file-entry-cache-5.0.1.tgz"},"options":{"compress":true},"status":301}}

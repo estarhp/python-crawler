@@ -1,2 +1,0 @@
-
-87f823e44b85e82206f647bb12dd07f80538ae7a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/brorand/download/brorand-1.1.0.tgz","integrity":null,"time":1678195528941,"size":"262","metadata":{"time":1678195528941,"url":"https://registry.npm.taobao.org/brorand/download/brorand-1.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/brorand/download/brorand-1.1.0.tgz"},"options":{"compress":true},"status":301}}

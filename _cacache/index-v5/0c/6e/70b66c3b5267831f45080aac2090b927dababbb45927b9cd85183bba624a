@@ -1,2 +1,0 @@
-
-bca83c2d760117e15a756ecf2ce81c3ef52b1140	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/sockjs-client/download/sockjs-client-1.5.1.tgz","integrity":null,"time":1678195527068,"size":"262","metadata":{"time":1678195527068,"url":"https://registry.npm.taobao.org/sockjs-client/download/sockjs-client-1.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/sockjs-client/download/sockjs-client-1.5.1.tgz"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-1a8555e374a9d39771cb4e238d9471eedc8cf7b8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/stream-each/download/stream-each-1.2.3.tgz","integrity":null,"time":1678195526986,"size":"262","metadata":{"time":1678195526986,"url":"https://registry.npm.taobao.org/stream-each/download/stream-each-1.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/stream-each/download/stream-each-1.2.3.tgz"},"options":{"compress":true},"status":301}}

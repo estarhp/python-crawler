@@ -1,2 +1,0 @@
-
-4e6e2998bd321fc80adb5d95fd9d5ee8d271035f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/address/download/address-1.1.2.tgz","integrity":null,"time":1678195529124,"size":"262","metadata":{"time":1678195529124,"url":"https://registry.npm.taobao.org/address/download/address-1.1.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/address/download/address-1.1.2.tgz"},"options":{"compress":true},"status":301}}

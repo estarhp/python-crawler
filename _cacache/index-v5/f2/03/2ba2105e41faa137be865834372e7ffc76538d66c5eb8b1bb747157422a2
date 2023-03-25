@@ -1,2 +1,0 @@
-
-803c9ac5f1064a8d4120039bcbd7ec4bd014e308	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/sha.js/download/sha.js-2.4.11.tgz","integrity":null,"time":1678195527126,"size":"262","metadata":{"time":1678195527126,"url":"https://registry.npm.taobao.org/sha.js/download/sha.js-2.4.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/sha.js/download/sha.js-2.4.11.tgz"},"options":{"compress":true},"status":301}}

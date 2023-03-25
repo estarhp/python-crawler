@@ -1,2 +1,0 @@
-
-aa132911a1c352f1866a4103c85d5867d8fabfad	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz","integrity":null,"time":1678195526864,"size":"262","metadata":{"time":1678195526864,"url":"https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/typedarray/download/typedarray-0.0.6.tgz"},"options":{"compress":true},"status":301}}

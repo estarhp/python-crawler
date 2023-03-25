@@ -1,2 +1,0 @@
-
-0ae4f8c6a0f57b56fd0cbed0aae22f87d5788e11	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/bytes/download/bytes-3.0.0.tgz","integrity":null,"time":1678195528521,"size":"262","metadata":{"time":1678195528521,"url":"https://registry.nlark.com/bytes/download/bytes-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/bytes/download/bytes-3.0.0.tgz"},"options":{"compress":true},"status":301}}

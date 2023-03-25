@@ -1,2 +1,0 @@
-
-1252dc0a8a5f348aa280635ae39685f7d97e4472	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/get-stream/download/get-stream-4.1.0.tgz","integrity":null,"time":1678195527141,"size":"262","metadata":{"time":1678195527141,"url":"https://registry.nlark.com/get-stream/download/get-stream-4.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/get-stream/download/get-stream-4.1.0.tgz"},"options":{"compress":true},"status":301}}

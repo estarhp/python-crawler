@@ -1,2 +1,0 @@
-
-b4fa1c253a20d6cfe387db57803844fb931dc623	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/memory-fs/download/memory-fs-0.5.0.tgz","integrity":null,"time":1678195529843,"size":"262","metadata":{"time":1678195529843,"url":"https://registry.npm.taobao.org/memory-fs/download/memory-fs-0.5.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:30 GMT","location":"https://registry.npmmirror.com/memory-fs/download/memory-fs-0.5.0.tgz"},"options":{"compress":true},"status":301}}

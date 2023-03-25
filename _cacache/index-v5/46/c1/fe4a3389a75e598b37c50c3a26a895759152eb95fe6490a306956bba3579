@@ -1,2 +1,0 @@
-
-725bb5e5e5a88d9334433b61e3891ef22739d931	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/batch/download/batch-0.6.1.tgz","integrity":null,"time":1678195529008,"size":"262","metadata":{"time":1678195529008,"url":"https://registry.npm.taobao.org/batch/download/batch-0.6.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/batch/download/batch-0.6.1.tgz"},"options":{"compress":true},"status":301}}

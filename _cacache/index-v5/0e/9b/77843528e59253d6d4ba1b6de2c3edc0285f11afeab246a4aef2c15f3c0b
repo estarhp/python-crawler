@@ -1,2 +1,0 @@
-
-26c143f72980257c24209c53ad88f237ff1f26c5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ignore/download/ignore-3.3.10.tgz","integrity":null,"time":1678195529937,"size":"262","metadata":{"time":1678195529937,"url":"https://registry.npm.taobao.org/ignore/download/ignore-3.3.10.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:30 GMT","location":"https://registry.npmmirror.com/ignore/download/ignore-3.3.10.tgz"},"options":{"compress":true},"status":301}}

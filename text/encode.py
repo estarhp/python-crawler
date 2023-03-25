@@ -1,5 +1,5 @@
 
-import b64
+import base64
 
 content='dadefefefaefweerhthyt中国'
 

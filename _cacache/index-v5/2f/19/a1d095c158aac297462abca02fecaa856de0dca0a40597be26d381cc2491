@@ -1,2 +1,0 @@
-
-5874ea368e0fe349ad8d9656e8715bf299e01555	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/tslib/download/tslib-1.14.1.tgz","integrity":null,"time":1678195526707,"size":"262","metadata":{"time":1678195526707,"url":"https://registry.nlark.com/tslib/download/tslib-1.14.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/tslib/download/tslib-1.14.1.tgz"},"options":{"compress":true},"status":301}}

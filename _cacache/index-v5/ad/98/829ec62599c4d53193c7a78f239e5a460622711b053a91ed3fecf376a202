@@ -1,2 +1,0 @@
-
-9d0e0a9157d16560bfcf8301dd3371218c5a995c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/hmac-drbg/download/hmac-drbg-1.0.1.tgz","integrity":null,"time":1678195528203,"size":"262","metadata":{"time":1678195528203,"url":"https://registry.npm.taobao.org/hmac-drbg/download/hmac-drbg-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/hmac-drbg/download/hmac-drbg-1.0.1.tgz"},"options":{"compress":true},"status":301}}

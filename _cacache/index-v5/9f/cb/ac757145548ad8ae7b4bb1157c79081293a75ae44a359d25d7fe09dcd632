@@ -1,2 +1,0 @@
-
-40a7f7a7a02d04cfb348eb673aa3ba29c905c0be	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/path-exists/download/path-exists-4.0.0.tgz","integrity":null,"time":1678195526929,"size":"262","metadata":{"time":1678195526929,"url":"https://registry.nlark.com/path-exists/download/path-exists-4.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/path-exists/download/path-exists-4.0.0.tgz"},"options":{"compress":true},"status":301}}

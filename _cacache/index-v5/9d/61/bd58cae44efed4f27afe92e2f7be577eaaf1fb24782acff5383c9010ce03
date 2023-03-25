@@ -1,2 +1,0 @@
-
-bcc4af0784fa023c24bee9524515124079986072	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/boolbase","integrity":null,"time":1672821185984,"size":"262","metadata":{"time":1672821185984,"url":"https://registry.npm.taobao.org/boolbase","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:05 GMT","location":"https://registry.npmmirror.com/boolbase"},"options":{"compress":true},"status":301}}

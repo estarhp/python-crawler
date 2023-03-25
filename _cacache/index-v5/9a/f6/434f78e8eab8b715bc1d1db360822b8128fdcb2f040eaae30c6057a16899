@@ -1,2 +1,0 @@
-
-d04858386dfef97e2ef611b698b76fcf62b596ad	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/slash/download/slash-2.0.0.tgz","integrity":null,"time":1678195527112,"size":"262","metadata":{"time":1678195527112,"url":"https://registry.npm.taobao.org/slash/download/slash-2.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/slash/download/slash-2.0.0.tgz"},"options":{"compress":true},"status":301}}

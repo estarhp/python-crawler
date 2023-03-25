@@ -1,2 +1,0 @@
-
-d4335567e4114c70919c9732e1481776d9bcad82	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/json5/download/json5-1.0.1.tgz","integrity":null,"time":1678195528410,"size":"262","metadata":{"time":1678195528410,"url":"https://registry.nlark.com/json5/download/json5-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/json5/download/json5-1.0.1.tgz"},"options":{"compress":true},"status":301}}

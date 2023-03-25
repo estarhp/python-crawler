@@ -1,2 +1,0 @@
-
-65d2e70a66d51ddc1705817be5896e8fe73ef09f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/astral-regex/download/astral-regex-1.0.0.tgz","integrity":null,"time":1678195529026,"size":"262","metadata":{"time":1678195529026,"url":"https://registry.npm.taobao.org/astral-regex/download/astral-regex-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/astral-regex/download/astral-regex-1.0.0.tgz"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-471b62d2a58e668966358ea154215736d49661bf	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/use/download/use-3.1.1.tgz","integrity":null,"time":1678195526767,"size":"262","metadata":{"time":1678195526767,"url":"https://registry.npm.taobao.org/use/download/use-3.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/use/download/use-3.1.1.tgz"},"options":{"compress":true},"status":301}}

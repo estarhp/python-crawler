@@ -1,2 +1,0 @@
-
-f87b65d738dc7795914d3063c1e193030406ea53	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/cross-spawn/download/cross-spawn-7.0.3.tgz","integrity":null,"time":1678195529911,"size":"262","metadata":{"time":1678195529911,"url":"https://registry.npm.taobao.org/cross-spawn/download/cross-spawn-7.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:30 GMT","location":"https://registry.npmmirror.com/cross-spawn/download/cross-spawn-7.0.3.tgz"},"options":{"compress":true},"status":301}}

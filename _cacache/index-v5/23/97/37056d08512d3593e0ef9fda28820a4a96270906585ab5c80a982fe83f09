@@ -1,2 +1,0 @@
-
-3fc529d8c2673ed2e214126caeea2e559a32d3cd	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ip-regex/download/ip-regex-2.1.0.tgz","integrity":null,"time":1678195528062,"size":"262","metadata":{"time":1678195528062,"url":"https://registry.npm.taobao.org/ip-regex/download/ip-regex-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/ip-regex/download/ip-regex-2.1.0.tgz"},"options":{"compress":true},"status":301}}

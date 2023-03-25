@@ -1,2 +1,0 @@
-
-94615ec8355a6f8b762e322608c25773034a2a7c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vue%2fbabel-plugin-jsx","integrity":null,"time":1672821167881,"size":"262","metadata":{"time":1672821167881,"url":"https://registry.npm.taobao.org/@vue%2fbabel-plugin-jsx","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:47 GMT","location":"https://registry.npmmirror.com/@vue%2fbabel-plugin-jsx"},"options":{"compress":true},"status":301}}

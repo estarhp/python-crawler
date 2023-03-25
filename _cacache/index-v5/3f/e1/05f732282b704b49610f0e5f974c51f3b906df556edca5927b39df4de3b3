@@ -1,2 +1,0 @@
-
-f2570c043e8b9dacd404ff4269a064891cb3d4a7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ieee754/download/ieee754-1.2.1.tgz","integrity":null,"time":1678195528153,"size":"262","metadata":{"time":1678195528153,"url":"https://registry.npm.taobao.org/ieee754/download/ieee754-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/ieee754/download/ieee754-1.2.1.tgz"},"options":{"compress":true},"status":301}}

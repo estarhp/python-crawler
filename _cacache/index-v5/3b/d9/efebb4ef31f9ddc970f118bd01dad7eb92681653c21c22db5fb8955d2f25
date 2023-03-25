@@ -1,2 +1,0 @@
-
-bc1e80e921ef6b9db292ad2ec52fccf0890aa0e0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/memfs","integrity":null,"time":1672821188604,"size":"262","metadata":{"time":1672821188604,"url":"https://registry.npm.taobao.org/memfs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:08 GMT","location":"https://registry.npmmirror.com/memfs"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-f94e208bc2523d66843dbc5f7049a9dcd9a86cf7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/call-me-maybe/download/call-me-maybe-1.0.1.tgz","integrity":null,"time":1678195528883,"size":"262","metadata":{"time":1678195528883,"url":"https://registry.npm.taobao.org/call-me-maybe/download/call-me-maybe-1.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/call-me-maybe/download/call-me-maybe-1.0.1.tgz"},"options":{"compress":true},"status":301}}

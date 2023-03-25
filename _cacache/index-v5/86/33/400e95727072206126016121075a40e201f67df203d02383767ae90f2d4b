@@ -1,2 +1,0 @@
-
-5467ca58244500c58b274dfb6dab3f8e01d83bcf	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/resolve/download/resolve-1.20.0.tgz","integrity":null,"time":1678195527202,"size":"262","metadata":{"time":1678195527201,"url":"https://registry.npm.taobao.org/resolve/download/resolve-1.20.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/resolve/download/resolve-1.20.0.tgz"},"options":{"compress":true},"status":301}}

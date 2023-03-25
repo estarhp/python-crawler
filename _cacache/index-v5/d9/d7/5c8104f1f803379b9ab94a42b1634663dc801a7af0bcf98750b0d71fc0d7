@@ -1,2 +1,0 @@
-
-49c5938e08a489d1831142e2eec056deeda5713c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/bn.js/download/bn.js-5.2.0.tgz","integrity":null,"time":1678195528961,"size":"262","metadata":{"time":1678195528961,"url":"https://registry.npm.taobao.org/bn.js/download/bn.js-5.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/bn.js/download/bn.js-5.2.0.tgz"},"options":{"compress":true},"status":301}}

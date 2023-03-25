@@ -1,2 +1,0 @@
-
-083e7e15dda9d97400471e12756c8b95e9c642f2	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/coa/download/coa-2.0.2.tgz","integrity":null,"time":1678195527459,"size":"262","metadata":{"time":1678195527459,"url":"https://registry.nlark.com/coa/download/coa-2.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/coa/download/coa-2.0.2.tgz"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-04d882ea6cf217b82a55b5f6d669bc0510d8ef05	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/svg-tags","integrity":null,"time":1672821169883,"size":"262","metadata":{"time":1672821169883,"url":"https://registry.npm.taobao.org/svg-tags","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:49 GMT","location":"https://registry.npmmirror.com/svg-tags"},"options":{"compress":true},"status":301}}

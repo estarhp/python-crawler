@@ -1,2 +1,0 @@
-
-ca94c42e3f510987bba04cabe968a4cce05bdecc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/http-errors/download/http-errors-1.7.2.tgz","integrity":null,"time":1678195528154,"size":"262","metadata":{"time":1678195528154,"url":"https://registry.npm.taobao.org/http-errors/download/http-errors-1.7.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/http-errors/download/http-errors-1.7.2.tgz"},"options":{"compress":true},"status":301}}

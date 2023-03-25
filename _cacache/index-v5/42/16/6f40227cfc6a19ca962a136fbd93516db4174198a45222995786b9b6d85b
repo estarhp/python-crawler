@@ -1,2 +1,0 @@
-
-a988264e4f78e3d29e546c443fa48b902c4fb2af	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/http-proxy","integrity":null,"time":1672821188547,"size":"262","metadata":{"time":1672821188547,"url":"https://registry.npm.taobao.org/http-proxy","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:08 GMT","location":"https://registry.npmmirror.com/http-proxy"},"options":{"compress":true},"status":301}}

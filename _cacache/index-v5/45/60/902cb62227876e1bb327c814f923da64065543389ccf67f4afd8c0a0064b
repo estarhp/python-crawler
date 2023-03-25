@@ -1,2 +1,0 @@
-
-5dd7abaedbaf64893ac759fb1b5b8434bccb0e0b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@babel%2feslint-parser","integrity":null,"time":1672821208421,"size":"262","metadata":{"time":1672821208421,"url":"https://registry.npm.taobao.org/@babel%2feslint-parser","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:28 GMT","location":"https://registry.npmmirror.com/@babel%2feslint-parser"},"options":{"compress":true},"status":301}}

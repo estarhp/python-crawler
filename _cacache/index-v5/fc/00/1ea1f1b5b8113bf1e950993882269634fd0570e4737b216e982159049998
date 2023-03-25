@@ -1,2 +1,0 @@
-
-d246eb9c6bf5ec8070baf87dc22c05273ff8586b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/jest-worker","integrity":null,"time":1672821172609,"size":"262","metadata":{"time":1672821172609,"url":"https://registry.npm.taobao.org/jest-worker","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:52 GMT","location":"https://registry.npmmirror.com/jest-worker"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-80e9a06fef9b97f8ee3cf09e2e056c0e51ffd60f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/magic-string/download/magic-string-0.25.7.tgz","integrity":null,"time":1678195527757,"size":"262","metadata":{"time":1678195527757,"url":"https://registry.npm.taobao.org/magic-string/download/magic-string-0.25.7.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/magic-string/download/magic-string-0.25.7.tgz"},"options":{"compress":true},"status":301}}

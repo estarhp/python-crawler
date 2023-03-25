@@ -1,2 +1,0 @@
-
-c8b77f19b351aee451bf5267c0eca007d57e5875	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/astral-regex","integrity":null,"time":1672821211692,"size":"262","metadata":{"time":1672821211692,"url":"https://registry.npm.taobao.org/astral-regex","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:31 GMT","location":"https://registry.npmmirror.com/astral-regex"},"options":{"compress":true},"status":301}}

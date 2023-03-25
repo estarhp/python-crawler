@@ -1,2 +1,0 @@
-
-db92bb974865e2aeefc055e12e88d9a8437d8609	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/worker-farm/download/worker-farm-1.7.0.tgz","integrity":null,"time":1678195526697,"size":"262","metadata":{"time":1678195526697,"url":"https://registry.npm.taobao.org/worker-farm/download/worker-farm-1.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/worker-farm/download/worker-farm-1.7.0.tgz"},"options":{"compress":true},"status":301}}

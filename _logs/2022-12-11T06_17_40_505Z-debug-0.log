@@ -1,0 +1,260 @@
+0 verbose cli D:\node.exe D:\node_modules\npm\bin\npm-cli.js
+1 info using npm@8.19.2
+2 info using node@v16.18.1
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:D:\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 3ms
+10 timing config:load:file:C:\Users\86139\.npmrc Completed in 1ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:C:\Users\86139\AppData\Roaming\npm\etc\npmrc Completed in 0ms
+13 timing config:load:global Completed in 0ms
+14 timing config:load:validate Completed in 1ms
+15 timing config:load:credentials Completed in 0ms
+16 timing config:load:setEnvs Completed in 1ms
+17 timing config:load Completed in 12ms
+18 timing npm:load:configload Completed in 12ms
+19 timing npm:load:mkdirpcache Completed in 0ms
+20 timing npm:load:mkdirplogs Completed in 1ms
+21 verbose title npm install less
+22 verbose argv "install" "less" "--global"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing config:load:flatten Completed in 2ms
+25 timing npm:load:display Completed in 3ms
+26 verbose logfile logs-max:10 dir:D:\Desktop\python\_logs
+27 verbose logfile D:\Desktop\python\_logs\2022-12-11T06_17_40_505Z-debug-0.log
+28 timing npm:load:logFile Completed in 4ms
+29 timing npm:load:timers Completed in 0ms
+30 timing npm:load:configScope Completed in 0ms
+31 timing npm:load Completed in 22ms
+32 timing arborist:ctor Completed in 1ms
+33 silly logfile start cleaning logs, removing 1 files
+34 silly logfile done cleaning log files
+35 timing idealTree:init Completed in 4ms
+36 timing idealTree:userRequests Completed in 1ms
+37 silly idealTree buildDeps
+38 silly fetch manifest less@*
+39 http fetch GET 200 https://registry.npmjs.org/less 3003ms (cache miss)
+40 silly placeDep ROOT less@4.1.3 OK for:  want: *
+41 silly fetch manifest copy-anything@^2.0.1
+42 silly fetch manifest parse-node-version@^1.0.1
+43 silly fetch manifest tslib@^2.3.0
+44 silly fetch manifest errno@^0.1.1
+45 silly fetch manifest graceful-fs@^4.1.2
+46 silly fetch manifest image-size@~0.5.0
+47 silly fetch manifest make-dir@^2.1.0
+48 silly fetch manifest mime@^1.4.1
+49 silly fetch manifest needle@^3.1.0
+50 silly fetch manifest source-map@~0.6.0
+51 http fetch GET 200 https://registry.npmjs.org/copy-anything 746ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/tslib 1221ms (cache miss)
+53 http fetch GET 200 https://registry.npmjs.org/source-map 1261ms (cache miss)
+54 http fetch GET 200 https://registry.npmjs.org/errno 1329ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/needle 1643ms (cache miss)
+56 http fetch GET 200 https://registry.npmjs.org/graceful-fs 2211ms (cache miss)
+57 http fetch GET 200 https://registry.npmjs.org/make-dir 2296ms (cache miss)
+58 http fetch GET 200 https://registry.npmjs.org/mime 2761ms (cache miss)
+59 http fetch GET 200 https://registry.npmjs.org/parse-node-version 2827ms (cache miss)
+60 http fetch GET 200 https://registry.npmjs.org/image-size 2871ms (cache miss)
+61 timing idealTree:#root Completed in 5888ms
+62 silly placeDep node_modules/less copy-anything@2.0.6 OK for: less@4.1.3 want: ^2.0.1
+63 silly placeDep node_modules/less errno@0.1.8 OK for: less@4.1.3 want: ^0.1.1
+64 silly placeDep node_modules/less graceful-fs@4.2.10 OK for: less@4.1.3 want: ^4.1.2
+65 silly placeDep node_modules/less image-size@0.5.5 OK for: less@4.1.3 want: ~0.5.0
+66 silly placeDep node_modules/less make-dir@2.1.0 OK for: less@4.1.3 want: ^2.1.0
+67 silly placeDep node_modules/less mime@1.6.0 OK for: less@4.1.3 want: ^1.4.1
+68 silly placeDep node_modules/less needle@3.2.0 OK for: less@4.1.3 want: ^3.1.0
+69 silly placeDep node_modules/less parse-node-version@1.0.1 OK for: less@4.1.3 want: ^1.0.1
+70 silly placeDep node_modules/less source-map@0.6.1 OK for: less@4.1.3 want: ~0.6.0
+71 silly placeDep node_modules/less tslib@2.4.1 OK for: less@4.1.3 want: ^2.3.0
+72 silly fetch manifest is-what@^3.14.1
+73 silly fetch manifest prr@~1.0.1
+74 silly fetch manifest pify@^4.0.1
+75 silly fetch manifest semver@^5.6.0
+76 silly fetch manifest debug@^3.2.6
+77 silly fetch manifest iconv-lite@^0.6.3
+78 silly fetch manifest sax@^1.2.4
+79 http fetch GET 200 https://registry.npmjs.org/prr 281ms (cache miss)
+80 http fetch GET 200 https://registry.npmjs.org/pify 650ms (cache miss)
+81 http fetch GET 200 https://registry.npmjs.org/sax 873ms (cache miss)
+82 http fetch GET 200 https://registry.npmjs.org/iconv-lite 908ms (cache miss)
+83 http fetch GET 200 https://registry.npmjs.org/debug 1049ms (cache miss)
+84 http fetch GET 200 https://registry.npmjs.org/is-what 1142ms (cache miss)
+85 http fetch GET 200 https://registry.npmjs.org/semver 1822ms (cache miss)
+86 timing idealTree:node_modules/less Completed in 1836ms
+87 silly placeDep node_modules/less is-what@3.14.1 OK for: copy-anything@2.0.6 want: ^3.14.1
+88 timing idealTree:node_modules/less/node_modules/copy-anything Completed in 1ms
+89 silly placeDep node_modules/less prr@1.0.1 OK for: errno@0.1.8 want: ~1.0.1
+90 timing idealTree:node_modules/less/node_modules/errno Completed in 1ms
+91 timing idealTree:node_modules/less/node_modules/graceful-fs Completed in 0ms
+92 timing idealTree:node_modules/less/node_modules/image-size Completed in 0ms
+93 timing idealTree:node_modules/less/node_modules/is-what Completed in 0ms
+94 silly placeDep node_modules/less pify@4.0.1 OK for: make-dir@2.1.0 want: ^4.0.1
+95 silly placeDep node_modules/less semver@5.7.1 OK for: make-dir@2.1.0 want: ^5.6.0
+96 timing idealTree:node_modules/less/node_modules/make-dir Completed in 2ms
+97 timing idealTree:node_modules/less/node_modules/mime Completed in 1ms
+98 silly placeDep node_modules/less debug@3.2.7 OK for: needle@3.2.0 want: ^3.2.6
+99 silly placeDep node_modules/less iconv-lite@0.6.3 OK for: needle@3.2.0 want: ^0.6.3
+100 silly placeDep node_modules/less sax@1.2.4 OK for: needle@3.2.0 want: ^1.2.4
+101 silly fetch manifest ms@^2.1.1
+102 silly fetch manifest safer-buffer@>= 2.1.2 < 3.0.0
+103 http fetch GET 200 https://registry.npmjs.org/safer-buffer 539ms (cache miss)
+104 http fetch GET 200 https://registry.npmjs.org/ms 939ms (cache miss)
+105 timing idealTree:node_modules/less/node_modules/needle Completed in 941ms
+106 silly placeDep node_modules/less ms@2.1.3 OK for: debug@3.2.7 want: ^2.1.1
+107 timing idealTree:node_modules/less/node_modules/debug Completed in 1ms
+108 silly placeDep node_modules/less safer-buffer@2.1.2 OK for: iconv-lite@0.6.3 want: >= 2.1.2 < 3.0.0
+109 timing idealTree:node_modules/less/node_modules/iconv-lite Completed in 0ms
+110 timing idealTree:node_modules/less/node_modules/ms Completed in 0ms
+111 timing idealTree:node_modules/less/node_modules/parse-node-version Completed in 0ms
+112 timing idealTree:node_modules/less/node_modules/pify Completed in 0ms
+113 timing idealTree:node_modules/less/node_modules/prr Completed in 0ms
+114 timing idealTree:node_modules/less/node_modules/safer-buffer Completed in 0ms
+115 timing idealTree:node_modules/less/node_modules/sax Completed in 0ms
+116 timing idealTree:node_modules/less/node_modules/semver Completed in 0ms
+117 timing idealTree:node_modules/less/node_modules/source-map Completed in 0ms
+118 timing idealTree:node_modules/less/node_modules/tslib Completed in 0ms
+119 timing idealTree:buildDeps Completed in 8674ms
+120 timing idealTree:fixDepFlags Completed in 0ms
+121 timing idealTree Completed in 8680ms
+122 timing reify:loadTrees Completed in 8681ms
+123 timing reify:diffTrees Completed in 1ms
+124 silly reify moves {}
+125 timing reify:retireShallow Completed in 1ms
+126 timing reify:createSparse Completed in 9ms
+127 timing reify:loadBundles Completed in 0ms
+128 silly audit bulk request {
+128 silly audit   less: [ '4.1.3' ],
+128 silly audit   'copy-anything': [ '2.0.6' ],
+128 silly audit   errno: [ '0.1.8' ],
+128 silly audit   'graceful-fs': [ '4.2.10' ],
+128 silly audit   'image-size': [ '0.5.5' ],
+128 silly audit   'make-dir': [ '2.1.0' ],
+128 silly audit   mime: [ '1.6.0' ],
+128 silly audit   needle: [ '3.2.0' ],
+128 silly audit   'parse-node-version': [ '1.0.1' ],
+128 silly audit   'source-map': [ '0.6.1' ],
+128 silly audit   tslib: [ '2.4.1' ],
+128 silly audit   'is-what': [ '3.14.1' ],
+128 silly audit   prr: [ '1.0.1' ],
+128 silly audit   pify: [ '4.0.1' ],
+128 silly audit   semver: [ '5.7.1' ],
+128 silly audit   debug: [ '3.2.7' ],
+128 silly audit   'iconv-lite': [ '0.6.3' ],
+128 silly audit   sax: [ '1.2.4' ],
+128 silly audit   ms: [ '2.1.3' ],
+128 silly audit   'safer-buffer': [ '2.1.2' ]
+128 silly audit }
+129 silly tarball no local data for less@https://registry.npmjs.org/less/-/less-4.1.3.tgz. Extracting by manifest.
+130 silly tarball no local data for safer-buffer@https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz. Extracting by manifest.
+131 silly tarball no local data for sax@https://registry.npmjs.org/sax/-/sax-1.2.4.tgz. Extracting by manifest.
+132 silly tarball no local data for debug@https://registry.npmjs.org/debug/-/debug-3.2.7.tgz. Extracting by manifest.
+133 silly tarball no local data for is-what@https://registry.npmjs.org/is-what/-/is-what-3.14.1.tgz. Extracting by manifest.
+134 silly tarball no local data for pify@https://registry.npmjs.org/pify/-/pify-4.0.1.tgz. Extracting by manifest.
+135 silly tarball no local data for iconv-lite@https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.3.tgz. Extracting by manifest.
+136 silly tarball no local data for prr@https://registry.npmjs.org/prr/-/prr-1.0.1.tgz. Extracting by manifest.
+137 silly tarball no local data for semver@https://registry.npmjs.org/semver/-/semver-5.7.1.tgz. Extracting by manifest.
+138 silly tarball no local data for parse-node-version@https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.1.tgz. Extracting by manifest.
+139 silly tarball no local data for source-map@https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz. Extracting by manifest.
+140 silly tarball no local data for tslib@https://registry.npmjs.org/tslib/-/tslib-2.4.1.tgz. Extracting by manifest.
+141 silly tarball no local data for ms@https://registry.npmjs.org/ms/-/ms-2.1.3.tgz. Extracting by manifest.
+142 silly tarball no local data for needle@https://registry.npmjs.org/needle/-/needle-3.2.0.tgz. Extracting by manifest.
+143 silly tarball no local data for graceful-fs@https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz. Extracting by manifest.
+144 silly tarball no local data for make-dir@https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz. Extracting by manifest.
+145 silly tarball no local data for mime@https://registry.npmjs.org/mime/-/mime-1.6.0.tgz. Extracting by manifest.
+146 silly tarball no local data for image-size@https://registry.npmjs.org/image-size/-/image-size-0.5.5.tgz. Extracting by manifest.
+147 silly tarball no local data for errno@https://registry.npmjs.org/errno/-/errno-0.1.8.tgz. Extracting by manifest.
+148 silly tarball no local data for copy-anything@https://registry.npmjs.org/copy-anything/-/copy-anything-2.0.6.tgz. Extracting by manifest.
+149 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 298ms
+150 timing auditReport:getReport Completed in 301ms
+151 silly audit report {}
+152 timing auditReport:init Completed in 0ms
+153 timing reify:audit Completed in 301ms
+154 http fetch GET 200 https://registry.npmjs.org/prr/-/prr-1.0.1.tgz 309ms (cache miss)
+155 timing reifyNode:node_modules/less/node_modules/prr Completed in 331ms
+156 http fetch GET 200 https://registry.npmjs.org/pify/-/pify-4.0.1.tgz 645ms (cache miss)
+157 timing reifyNode:node_modules/less/node_modules/pify Completed in 665ms
+158 http fetch GET 200 https://registry.npmjs.org/semver/-/semver-5.7.1.tgz 694ms (cache miss)
+159 timing reifyNode:node_modules/less/node_modules/semver Completed in 718ms
+160 http fetch GET 200 https://registry.npmjs.org/parse-node-version/-/parse-node-version-1.0.1.tgz 788ms (cache miss)
+161 timing reifyNode:node_modules/less/node_modules/parse-node-version Completed in 812ms
+162 http fetch GET 200 https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.10.tgz 842ms (cache miss)
+163 timing reifyNode:node_modules/less/node_modules/graceful-fs Completed in 872ms
+164 http fetch GET 200 https://registry.npmjs.org/debug/-/debug-3.2.7.tgz 891ms (cache miss)
+165 timing reifyNode:node_modules/less/node_modules/debug Completed in 909ms
+166 http fetch GET 200 https://registry.npmjs.org/make-dir/-/make-dir-2.1.0.tgz 911ms (cache miss)
+167 timing reifyNode:node_modules/less/node_modules/make-dir Completed in 944ms
+168 http fetch GET 200 https://registry.npmjs.org/ms/-/ms-2.1.3.tgz 1166ms (cache miss)
+169 timing reifyNode:node_modules/less/node_modules/ms Completed in 1196ms
+170 http fetch GET 200 https://registry.npmjs.org/copy-anything/-/copy-anything-2.0.6.tgz 1424ms (cache miss)
+171 timing reifyNode:node_modules/less/node_modules/copy-anything Completed in 1462ms
+172 http fetch GET 200 https://registry.npmjs.org/needle/-/needle-3.2.0.tgz 1436ms (cache miss)
+173 timing reifyNode:node_modules/less/node_modules/needle Completed in 1467ms
+174 http fetch GET 200 https://registry.npmjs.org/sax/-/sax-1.2.4.tgz 1468ms (cache miss)
+175 timing reifyNode:node_modules/less/node_modules/sax Completed in 1485ms
+176 http fetch GET 200 https://registry.npmjs.org/errno/-/errno-0.1.8.tgz 1451ms (cache miss)
+177 timing reifyNode:node_modules/less/node_modules/errno Completed in 1486ms
+178 http fetch GET 200 https://registry.npmjs.org/mime/-/mime-1.6.0.tgz 1507ms (cache miss)
+179 timing reifyNode:node_modules/less/node_modules/mime Completed in 1554ms
+180 http fetch GET 200 https://registry.npmjs.org/is-what/-/is-what-3.14.1.tgz 1536ms (cache miss)
+181 timing reifyNode:node_modules/less/node_modules/is-what Completed in 1555ms
+182 http fetch GET 200 https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.3.tgz 1818ms (cache miss)
+183 timing reifyNode:node_modules/less/node_modules/iconv-lite Completed in 1841ms
+184 http fetch GET 200 https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz 2160ms (cache miss)
+185 timing reifyNode:node_modules/less/node_modules/source-map Completed in 2185ms
+186 http fetch GET 200 https://registry.npmjs.org/image-size/-/image-size-0.5.5.tgz 2219ms (cache miss)
+187 timing reifyNode:node_modules/less/node_modules/image-size Completed in 2254ms
+188 http fetch GET 200 https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz 2427ms (cache miss)
+189 timing reifyNode:node_modules/less/node_modules/safer-buffer Completed in 2443ms
+190 http fetch GET 200 https://registry.npmjs.org/tslib/-/tslib-2.4.1.tgz 3690ms (cache miss)
+191 timing reifyNode:node_modules/less/node_modules/tslib Completed in 3716ms
+192 http fetch GET 200 https://registry.npmjs.org/npm 12627ms (cache updated)
+193 http fetch GET 200 https://registry.npmjs.org/less/-/less-4.1.3.tgz 4282ms (cache miss)
+194 timing reifyNode:node_modules/less Completed in 4296ms
+195 timing reify:unpack Completed in 4296ms
+196 timing reify:unretire Completed in 0ms
+197 timing build:queue Completed in 1ms
+198 timing build:link:node_modules/less/node_modules/image-size Completed in 8ms
+199 timing build:link:node_modules/less Completed in 8ms
+200 timing build:link:node_modules/less/node_modules/needle Completed in 8ms
+201 timing build:link:node_modules/less/node_modules/semver Completed in 8ms
+202 timing build:link:node_modules/less/node_modules/mime Completed in 8ms
+203 timing build:link:node_modules/less/node_modules/errno Completed in 9ms
+204 timing build:link Completed in 9ms
+205 timing build:deps Completed in 11ms
+206 timing build Completed in 11ms
+207 timing reify:build Completed in 11ms
+208 timing reify:trash Completed in 0ms
+209 timing reify Completed in 13019ms
+210 silly ADD node_modules/less
+211 silly ADD node_modules/less/node_modules/safer-buffer
+212 silly ADD node_modules/less/node_modules/ms
+213 silly ADD node_modules/less/node_modules/sax
+214 silly ADD node_modules/less/node_modules/iconv-lite
+215 silly ADD node_modules/less/node_modules/debug
+216 silly ADD node_modules/less/node_modules/semver
+217 silly ADD node_modules/less/node_modules/pify
+218 silly ADD node_modules/less/node_modules/prr
+219 silly ADD node_modules/less/node_modules/is-what
+220 silly ADD node_modules/less/node_modules/tslib
+221 silly ADD node_modules/less/node_modules/source-map
+222 silly ADD node_modules/less/node_modules/parse-node-version
+223 silly ADD node_modules/less/node_modules/needle
+224 silly ADD node_modules/less/node_modules/mime
+225 silly ADD node_modules/less/node_modules/make-dir
+226 silly ADD node_modules/less/node_modules/image-size
+227 silly ADD node_modules/less/node_modules/graceful-fs
+228 silly ADD node_modules/less/node_modules/errno
+229 silly ADD node_modules/less/node_modules/copy-anything
+230 timing command:install Completed in 13023ms
+231 notice
+231 notice New [31mmajor[39m version of npm available! [31m8.19.2[39m -> [32m9.2.0[39m
+231 notice Changelog: [36mhttps://github.com/npm/cli/releases/tag/v9.2.0[39m
+231 notice Run [32mnpm install -g npm@9.2.0[39m to update!
+231 notice
+232 verbose exit 0
+233 timing npm Completed in 13173ms
+234 info ok

@@ -1,2 +1,0 @@
-
-bd674e8506415a197dc7d8ba3719844a1b2e7d6e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/randombytes-shim","integrity":null,"time":1678266549398,"size":"262","metadata":{"time":1678266549398,"url":"https://registry.npm.taobao.org/randombytes-shim","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 08 Mar 2023 09:09:09 GMT","location":"https://registry.npmmirror.com/randombytes-shim"},"options":{"compress":true},"status":301}}

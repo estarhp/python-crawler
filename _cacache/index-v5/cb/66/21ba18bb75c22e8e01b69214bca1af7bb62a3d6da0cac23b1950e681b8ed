@@ -1,2 +1,0 @@
-
-0d41567af272095f8cb24e03d85d91f0a5bdb3c0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/wbuf","integrity":null,"time":1672821191979,"size":"262","metadata":{"time":1672821191979,"url":"https://registry.npm.taobao.org/wbuf","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:11 GMT","location":"https://registry.npmmirror.com/wbuf"},"options":{"compress":true},"status":301}}

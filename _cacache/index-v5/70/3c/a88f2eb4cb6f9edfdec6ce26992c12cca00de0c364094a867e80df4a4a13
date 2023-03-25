@@ -1,2 +1,0 @@
-
-8b9eb4a79a64380c5b9fcb2910f69d10b221e919	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/defaults/download/defaults-1.0.3.tgz","integrity":null,"time":1678195528645,"size":"262","metadata":{"time":1678195528645,"url":"https://registry.npm.taobao.org/defaults/download/defaults-1.0.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/defaults/download/defaults-1.0.3.tgz"},"options":{"compress":true},"status":301}}

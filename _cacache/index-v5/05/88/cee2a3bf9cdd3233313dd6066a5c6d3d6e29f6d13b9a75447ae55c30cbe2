@@ -1,2 +1,0 @@
-
-cc893edc19e4689712bec7ea87f275b32ff831b4	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/yargs-parser/download/yargs-parser-20.2.9.tgz","integrity":null,"time":1678195526670,"size":"262","metadata":{"time":1678195526670,"url":"https://registry.nlark.com/yargs-parser/download/yargs-parser-20.2.9.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:26 GMT","location":"https://registry.npmmirror.com/yargs-parser/download/yargs-parser-20.2.9.tgz"},"options":{"compress":true},"status":301}}

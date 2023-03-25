@@ -1,2 +1,0 @@
-
-f450ebe4624eba2cd02a696a6f1fb92a0119c775	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/buffer/download/buffer-4.9.2.tgz","integrity":null,"time":1678195528947,"size":"262","metadata":{"time":1678195528947,"url":"https://registry.npm.taobao.org/buffer/download/buffer-4.9.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:29 GMT","location":"https://registry.npmmirror.com/buffer/download/buffer-4.9.2.tgz"},"options":{"compress":true},"status":301}}

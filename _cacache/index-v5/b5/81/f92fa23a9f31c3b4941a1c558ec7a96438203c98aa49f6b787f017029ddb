@@ -1,2 +1,0 @@
-
-01846e2c9931ce5a32d32ed652855fe2ad546eb1	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/emojis-list/download/emojis-list-2.1.0.tgz","integrity":null,"time":1678195529791,"size":"262","metadata":{"time":1678195529791,"url":"https://registry.npm.taobao.org/emojis-list/download/emojis-list-2.1.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:30 GMT","location":"https://registry.npmmirror.com/emojis-list/download/emojis-list-2.1.0.tgz"},"options":{"compress":true},"status":301}}

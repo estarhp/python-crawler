@@ -1,2 +1,0 @@
-
-7624cec47efaf2af51ecbf495ab95234be3503e7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/acorn-walk","integrity":null,"time":1672821166487,"size":"262","metadata":{"time":1672821166487,"url":"https://registry.npm.taobao.org/acorn-walk","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:46 GMT","location":"https://registry.npmmirror.com/acorn-walk"},"options":{"compress":true},"status":301}}

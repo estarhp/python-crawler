@@ -1,2 +1,0 @@
-
-99f7de4b16d6b4d8108ddf499e17c538892577b8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/css-tree","integrity":null,"time":1672821184284,"size":"262","metadata":{"time":1672821184284,"url":"https://registry.npm.taobao.org/css-tree","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:04 GMT","location":"https://registry.npmmirror.com/css-tree"},"options":{"compress":true},"status":301}}

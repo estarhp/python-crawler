@@ -1,2 +1,0 @@
-
-c057c10f0cead46a940858e644b52f6b3943e0d6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/crypt","integrity":null,"time":1675836777006,"size":"262","metadata":{"time":1675836777006,"url":"https://registry.npm.taobao.org/crypt","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 08 Feb 2023 06:12:56 GMT","location":"https://registry.npmmirror.com/crypt"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-02aabbcac4ff4f57011b549a1ea55c9385c30834	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/clone/download/clone-1.0.4.tgz","integrity":null,"time":1678195527499,"size":"262","metadata":{"time":1678195527499,"url":"https://registry.nlark.com/clone/download/clone-1.0.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/clone/download/clone-1.0.4.tgz"},"options":{"compress":true},"status":301}}

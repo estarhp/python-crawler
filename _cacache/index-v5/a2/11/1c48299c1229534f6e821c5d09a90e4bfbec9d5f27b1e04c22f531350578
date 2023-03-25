@@ -1,2 +1,0 @@
-
-81fda1977e6d6bbeeae77c32e5a83da2c1e3aa89	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/file-uri-to-path/download/file-uri-to-path-1.0.0.tgz","integrity":null,"time":1678195528378,"size":"262","metadata":{"time":1678195528378,"url":"https://registry.npm.taobao.org/file-uri-to-path/download/file-uri-to-path-1.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/file-uri-to-path/download/file-uri-to-path-1.0.0.tgz"},"options":{"compress":true},"status":301}}

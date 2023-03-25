@@ -1,2 +1,0 @@
-
-a48724c811429f61f60f937ced98202e3e2a9d78	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/mz/download/mz-2.7.0.tgz","integrity":null,"time":1678195527613,"size":"262","metadata":{"time":1678195527613,"url":"https://registry.npm.taobao.org/mz/download/mz-2.7.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/mz/download/mz-2.7.0.tgz"},"options":{"compress":true},"status":301}}

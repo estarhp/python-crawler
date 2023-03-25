@@ -1,2 +1,0 @@
-
-27fdc8bd4bf01a88c8081a3244e2d01838294a89	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/totalist","integrity":null,"time":1672821188279,"size":"262","metadata":{"time":1672821188279,"url":"https://registry.npm.taobao.org/totalist","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:08 GMT","location":"https://registry.npmmirror.com/totalist"},"options":{"compress":true},"status":301}}

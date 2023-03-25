@@ -1,2 +1,0 @@
-
-cffff50fffe7464dcd26a4c265b88c3b8965dead	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/csso/download/csso-4.2.0.tgz","integrity":null,"time":1678195527483,"size":"262","metadata":{"time":1678195527483,"url":"https://registry.nlark.com/csso/download/csso-4.2.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/csso/download/csso-4.2.0.tgz"},"options":{"compress":true},"status":301}}

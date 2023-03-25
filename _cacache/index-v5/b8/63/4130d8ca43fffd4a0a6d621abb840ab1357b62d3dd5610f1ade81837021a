@@ -1,2 +1,0 @@
-
-b61a61f8b673bfe712e03e53ad904328b75730ef	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pumpify/download/pumpify-1.5.1.tgz","integrity":null,"time":1678195527292,"size":"262","metadata":{"time":1678195527292,"url":"https://registry.npm.taobao.org/pumpify/download/pumpify-1.5.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/pumpify/download/pumpify-1.5.1.tgz"},"options":{"compress":true},"status":301}}

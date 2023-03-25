@@ -1,2 +1,0 @@
-
-5d0deacf01d25d61d18defd4e282759dd5692e70	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/object-inspect/download/object-inspect-1.10.3.tgz","integrity":null,"time":1678195526946,"size":"262","metadata":{"time":1678195526946,"url":"https://registry.nlark.com/object-inspect/download/object-inspect-1.10.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/object-inspect/download/object-inspect-1.10.3.tgz"},"options":{"compress":true},"status":301}}

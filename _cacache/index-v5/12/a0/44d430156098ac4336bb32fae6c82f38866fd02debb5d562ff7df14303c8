@@ -1,2 +1,0 @@
-
-ca013c141133e03da15118e86391150f49aa3f0b	{"key":"make-fetch-happen:request-cache:https://registry.nlark.com/range-parser/download/range-parser-1.2.1.tgz","integrity":null,"time":1678195526835,"size":"262","metadata":{"time":1678195526835,"url":"https://registry.nlark.com/range-parser/download/range-parser-1.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:27 GMT","location":"https://registry.npmmirror.com/range-parser/download/range-parser-1.2.1.tgz"},"options":{"compress":true},"status":301}}

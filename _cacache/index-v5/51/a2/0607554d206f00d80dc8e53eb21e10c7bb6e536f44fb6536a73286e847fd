@@ -1,2 +1,0 @@
-
-36f79c1039f88f8f43e14cea2d7eb0497373f8ff	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/icss-utils","integrity":null,"time":1672821173136,"size":"262","metadata":{"time":1672821173136,"url":"https://registry.npm.taobao.org/icss-utils","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:52 GMT","location":"https://registry.npmmirror.com/icss-utils"},"options":{"compress":true},"status":301}}

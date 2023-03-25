@@ -17,7 +17,7 @@ def geturls(url):
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
     })
     # print(resp.text)
-    name="bbb"
+    name=re.findall(r'<title .*?>(.*?)”</title>',resp.text,re.S)[0]
 
     dict=re.findall(r'<script>window.__playinfo__=(.*?)</script>',resp.text,re.S)
     dict=json.loads(dict[0])
@@ -60,7 +60,7 @@ def merge_data(name):
 
 
 if __name__ == '__main__':
-    url='https://www.bilibili.com/video/BV1Zg411Z75K/?spm_id_from=333.788.recommend_more_video.0&vd_source=2d5b2c6a81c7c20d422aaa981b984c5b'
+    url='https://www.bilibili.com/bangumi/play/ss41417?from_spmid=666.4.0.0'
     datas=geturls(url)
     downmp4(datas[0],datas[2])
     downmp3(datas[1],datas[2])

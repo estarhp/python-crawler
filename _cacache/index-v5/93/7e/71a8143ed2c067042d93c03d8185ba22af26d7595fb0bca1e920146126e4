@@ -1,2 +1,0 @@
-
-e224cf3f0fe527631b1c423ea00eaca0a7a8e9c9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/events/download/events-3.3.0.tgz","integrity":null,"time":1678195528443,"size":"262","metadata":{"time":1678195528443,"url":"https://registry.npm.taobao.org/events/download/events-3.3.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/events/download/events-3.3.0.tgz"},"options":{"compress":true},"status":301}}

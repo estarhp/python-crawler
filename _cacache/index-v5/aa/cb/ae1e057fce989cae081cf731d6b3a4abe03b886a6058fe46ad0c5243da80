@@ -1,2 +1,0 @@
-
-063e62fcd77f58a08d89ba6b9b54040deeab12e6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ansi-colors","integrity":null,"time":1672821210860,"size":"262","metadata":{"time":1672821210860,"url":"https://registry.npm.taobao.org/ansi-colors","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:33:30 GMT","location":"https://registry.npmmirror.com/ansi-colors"},"options":{"compress":true},"status":301}}

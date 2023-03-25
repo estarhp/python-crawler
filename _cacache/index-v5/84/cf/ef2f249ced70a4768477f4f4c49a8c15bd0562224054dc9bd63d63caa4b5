@@ -1,2 +1,0 @@
-
-3d430ed833d6e58123896bb7bd6d7c71da1dcccb	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/har-validator/download/har-validator-5.1.5.tgz","integrity":null,"time":1678195528280,"size":"262","metadata":{"time":1678195528280,"url":"https://registry.npm.taobao.org/har-validator/download/har-validator-5.1.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Tue, 07 Mar 2023 13:25:28 GMT","location":"https://registry.npmmirror.com/har-validator/download/har-validator-5.1.5.tgz"},"options":{"compress":true},"status":301}}

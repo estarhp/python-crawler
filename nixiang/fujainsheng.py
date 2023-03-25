@@ -43,6 +43,3 @@ data=execjs.compile(open('data.js','r',encoding='utf-8').read()).call('b',resp.j
 
 
 print(data)
-
-
-

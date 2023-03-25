@@ -1,2 +1,0 @@
-
-08e6b952d85d37498ce5ba71d5998e3db69a0e82	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/camel-case","integrity":null,"time":1672821179889,"size":"262","metadata":{"time":1672821179889,"url":"https://registry.npm.taobao.org/camel-case","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Wed, 04 Jan 2023 08:32:59 GMT","location":"https://registry.npmmirror.com/camel-case"},"options":{"compress":true},"status":301}}
