@@ -1,3 +1,3 @@
-m="asjdaosda"
+const crypto=require("crypto")
 
-console.log(m.substring(3))
+crypto.get
