@@ -1,2 +1,0 @@
-
-c8949644c681663fa5fc9a7392fb64791769277e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/form-data-encoder","integrity":null,"time":1679754843517,"size":"262","metadata":{"time":1679754843517,"url":"https://registry.npm.taobao.org/form-data-encoder","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/form-data-encoder"},"options":{"compress":true},"status":301}}

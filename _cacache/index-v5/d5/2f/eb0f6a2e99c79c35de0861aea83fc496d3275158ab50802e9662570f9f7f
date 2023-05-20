@@ -1,2 +1,0 @@
-
-81fcd5c8e34ec342cd63c600531cb49e0b4d98a2	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/proto-list","integrity":null,"time":1682738614744,"size":"262","metadata":{"time":1682738614744,"url":"https://registry.npm.taobao.org/proto-list","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:35 GMT","location":"https://registry.npmmirror.com/proto-list"},"options":{"compress":true},"status":301}}

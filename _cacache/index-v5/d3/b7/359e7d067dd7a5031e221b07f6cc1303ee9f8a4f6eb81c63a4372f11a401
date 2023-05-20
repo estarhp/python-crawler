@@ -1,2 +1,0 @@
-
-c1963841017569bc1376c6606c2b01d231e92fb2	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/agentkeepalive","integrity":null,"time":1679754845974,"size":"262","metadata":{"time":1679754845974,"url":"https://registry.npm.taobao.org/agentkeepalive","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:06 GMT","location":"https://registry.npmmirror.com/agentkeepalive"},"options":{"compress":true},"status":301}}

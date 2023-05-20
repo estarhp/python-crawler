@@ -1,2 +1,0 @@
-
-72ae8c5e6cd90424623405c9f7c6c1d48d63e62c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@types%2fcompression","integrity":null,"time":1682678815964,"size":"262","metadata":{"time":1682678815964,"url":"https://registry.npm.taobao.org/@types%2fcompression","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/@types%2fcompression"},"options":{"compress":true},"status":301}}

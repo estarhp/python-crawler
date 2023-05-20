@@ -1,2 +1,0 @@
-
-e59e50c2c4adc6e952a474a0a03fa951d4f64d8f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/minipass-pipeline","integrity":null,"time":1679754844374,"size":"262","metadata":{"time":1679754844374,"url":"https://registry.npm.taobao.org/minipass-pipeline","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:05 GMT","location":"https://registry.npmmirror.com/minipass-pipeline"},"options":{"compress":true},"status":301}}

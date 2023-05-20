@@ -1,2 +1,0 @@
-
-d02145af0a83c6146c1235f9d1af6df63bba975c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/degenerator","integrity":null,"time":1679754849209,"size":"262","metadata":{"time":1679754849209,"url":"https://registry.npm.taobao.org/degenerator","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:10 GMT","location":"https://registry.npmmirror.com/degenerator"},"options":{"compress":true},"status":301}}

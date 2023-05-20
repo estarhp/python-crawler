@@ -1,2 +1,0 @@
-
-367b080230dea89dd69f4c0d544612979dc192e5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/es6-symbol/download/es6-symbol-3.1.1.tgz","integrity":null,"time":1680430307279,"size":"262","metadata":{"time":1680430307279,"url":"https://registry.npm.taobao.org/es6-symbol/download/es6-symbol-3.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:46 GMT","location":"https://registry.npmmirror.com/es6-symbol/download/es6-symbol-3.1.1.tgz"},"options":{"compress":true},"status":301}}

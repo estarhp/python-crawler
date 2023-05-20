@@ -1,2 +1,0 @@
-
-13cd6ce1698f1540ab3428409fe55f9143b5fed8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/chai","integrity":null,"time":1682738608497,"size":"262","metadata":{"time":1682738608497,"url":"https://registry.npm.taobao.org/chai","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:29 GMT","location":"https://registry.npmmirror.com/chai"},"options":{"compress":true},"status":301}}

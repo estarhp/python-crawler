@@ -1,2 +1,0 @@
-
-5dde76b18a03fa0e313829f26e6a697cb20708e2	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/isbinaryfile","integrity":null,"time":1682678815966,"size":"262","metadata":{"time":1682678815966,"url":"https://registry.npm.taobao.org/isbinaryfile","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/isbinaryfile"},"options":{"compress":true},"status":301}}

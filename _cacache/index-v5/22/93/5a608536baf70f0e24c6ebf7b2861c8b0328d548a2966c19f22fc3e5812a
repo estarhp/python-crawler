@@ -1,2 +1,0 @@
-
-f50ff1ca768b5e8504da83f9a45ddd55f073ef0f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/chownr","integrity":null,"time":1679754844091,"size":"262","metadata":{"time":1679754844091,"url":"https://registry.npm.taobao.org/chownr","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/chownr"},"options":{"compress":true},"status":301}}

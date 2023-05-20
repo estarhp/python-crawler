@@ -1,2 +1,0 @@
-
-03dfcd388c7a4448669a490a29b64584a39d5aaa	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/netmask","integrity":null,"time":1679754849209,"size":"262","metadata":{"time":1679754849209,"url":"https://registry.npm.taobao.org/netmask","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:10 GMT","location":"https://registry.npmmirror.com/netmask"},"options":{"compress":true},"status":301}}

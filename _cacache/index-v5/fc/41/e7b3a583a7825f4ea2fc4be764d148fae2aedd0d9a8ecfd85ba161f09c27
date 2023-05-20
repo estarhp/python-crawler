@@ -1,2 +1,0 @@
-
-845468c0b704825eb648a17aa3b9aaa26de726f0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@sinonjs%2fsamsam","integrity":null,"time":1682738611463,"size":"262","metadata":{"time":1682738611463,"url":"https://registry.npm.taobao.org/@sinonjs%2fsamsam","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:32 GMT","location":"https://registry.npmmirror.com/@sinonjs%2fsamsam"},"options":{"compress":true},"status":301}}

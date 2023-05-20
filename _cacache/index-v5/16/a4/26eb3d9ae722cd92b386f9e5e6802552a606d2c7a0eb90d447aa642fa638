@@ -1,2 +1,0 @@
-
-e909fac119d6f9ac6d9d9b442a9b6e567058a034	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/scule","integrity":null,"time":1683290664735,"size":"262","metadata":{"time":1683290664735,"url":"https://registry.npm.taobao.org/scule","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 05 May 2023 12:44:24 GMT","location":"https://registry.npmmirror.com/scule"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-773a00f7746813f3f458fb96ed90f8af11833a15	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/follow-redirects/-/follow-redirects-1.15.1.tgz","integrity":null,"time":1682739978363,"size":"262","metadata":{"time":1682739978363,"url":"https://registry.npm.taobao.org/follow-redirects/-/follow-redirects-1.15.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:46:19 GMT","location":"https://registry.npmmirror.com/follow-redirects/-/follow-redirects-1.15.1.tgz"},"options":{"compress":true},"status":301}}

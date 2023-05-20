@@ -1,2 +1,0 @@
-
-4947cdd062ad57da6d12dad81b304cd0ef4ad156	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@antfu%2futils","integrity":null,"time":1683290661638,"size":"262","metadata":{"time":1683290661638,"url":"https://registry.npm.taobao.org/@antfu%2futils","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 05 May 2023 12:44:21 GMT","location":"https://registry.npmmirror.com/@antfu%2futils"},"options":{"compress":true},"status":301}}

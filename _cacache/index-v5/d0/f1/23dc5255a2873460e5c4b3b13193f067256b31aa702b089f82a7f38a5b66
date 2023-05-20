@@ -1,2 +1,0 @@
-
-70b14c75d4ea319eb4d0ea9de06f375a3bcf960e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/fs-constants","integrity":null,"time":1682678818898,"size":"262","metadata":{"time":1682678818897,"url":"https://registry.npm.taobao.org/fs-constants","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:59 GMT","location":"https://registry.npmmirror.com/fs-constants"},"options":{"compress":true},"status":301}}

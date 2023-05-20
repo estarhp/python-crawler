@@ -1,2 +1,0 @@
-
-e283b97188c1745b521e7114ab72d0cedf5d6892	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/music-metadata/-/music-metadata-7.6.0.tgz","integrity":null,"time":1680430306462,"size":"262","metadata":{"time":1680430306462,"url":"https://registry.npm.taobao.org/music-metadata/-/music-metadata-7.6.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/music-metadata/-/music-metadata-7.6.0.tgz"},"options":{"compress":true},"status":301}}

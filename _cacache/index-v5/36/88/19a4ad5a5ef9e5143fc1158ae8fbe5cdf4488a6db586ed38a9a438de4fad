@@ -1,2 +1,0 @@
-
-d207546854380663cf3b087686793b14d131aaf7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@npmcli%2fquery","integrity":null,"time":1679754843935,"size":"262","metadata":{"time":1679754843935,"url":"https://registry.npm.taobao.org/@npmcli%2fquery","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/@npmcli%2fquery"},"options":{"compress":true},"status":301}}

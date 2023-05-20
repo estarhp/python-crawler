@@ -1,2 +1,0 @@
-
-aac37a134d130255f1767814163bc06aaf064d20	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/yaml-eslint-parser","integrity":null,"time":1682678817180,"size":"262","metadata":{"time":1682678817180,"url":"https://registry.npm.taobao.org/yaml-eslint-parser","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:57 GMT","location":"https://registry.npmmirror.com/yaml-eslint-parser"},"options":{"compress":true},"status":301}}

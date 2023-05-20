@@ -1,2 +1,0 @@
-
-0694e6d442735b87409ffb80bae1a029addd9e3f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/path-scurry","integrity":null,"time":1679754844479,"size":"262","metadata":{"time":1679754844479,"url":"https://registry.npm.taobao.org/path-scurry","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:05 GMT","location":"https://registry.npmmirror.com/path-scurry"},"options":{"compress":true},"status":301}}

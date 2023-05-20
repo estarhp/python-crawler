@@ -1,2 +1,0 @@
-
-4456b833229e60a3494a61fc71fcc3cd515d47c5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/scss-tokenizer","integrity":null,"time":1679754891791,"size":"262","metadata":{"time":1679754891791,"url":"https://registry.npm.taobao.org/scss-tokenizer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:52 GMT","location":"https://registry.npmmirror.com/scss-tokenizer"},"options":{"compress":true},"status":301}}

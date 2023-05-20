@@ -1,2 +1,0 @@
-
-37558938fe6891091da119abf7a233097768248f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/sinon-chai","integrity":null,"time":1682738610593,"size":"262","metadata":{"time":1682738610593,"url":"https://registry.npm.taobao.org/sinon-chai","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:31 GMT","location":"https://registry.npmmirror.com/sinon-chai"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-c976ec90dd59a05e4f4d6c79df8cf451fc61dc71	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/workbox-build","integrity":null,"time":1682678814813,"size":"262","metadata":{"time":1682678814813,"url":"https://registry.npm.taobao.org/workbox-build","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:55 GMT","location":"https://registry.npmmirror.com/workbox-build"},"options":{"compress":true},"status":301}}

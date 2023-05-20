@@ -1,2 +1,0 @@
-
-90356a287bc2fcb50f25f66a5d4a8171519b9bab	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/socks-proxy-agent","integrity":null,"time":1679754845975,"size":"262","metadata":{"time":1679754845975,"url":"https://registry.npm.taobao.org/socks-proxy-agent","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:06 GMT","location":"https://registry.npmmirror.com/socks-proxy-agent"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-4e4396e1d1454d8b56a624c74225822959273ecb	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/adm-zip","integrity":null,"time":1682738608438,"size":"262","metadata":{"time":1682738608438,"url":"https://registry.npm.taobao.org/adm-zip","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:29 GMT","location":"https://registry.npmmirror.com/adm-zip"},"options":{"compress":true},"status":301}}

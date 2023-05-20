@@ -1,2 +1,0 @@
-
-626d6812bf9d2bbb38d62aef3b8171d902f600f0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/power-assert/download/power-assert-1.6.1.tgz","integrity":null,"time":1680430306412,"size":"262","metadata":{"time":1680430306412,"url":"https://registry.npm.taobao.org/power-assert/download/power-assert-1.6.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/power-assert/download/power-assert-1.6.1.tgz"},"options":{"compress":true},"status":301}}

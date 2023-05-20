@@ -1,2 +1,0 @@
-
-d7b0dd8bd6dd54891f3fa4878d4bea3ef5323200	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/osenv","integrity":null,"time":1679754891767,"size":"262","metadata":{"time":1679754891767,"url":"https://registry.npm.taobao.org/osenv","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:52 GMT","location":"https://registry.npmmirror.com/osenv"},"options":{"compress":true},"status":301}}

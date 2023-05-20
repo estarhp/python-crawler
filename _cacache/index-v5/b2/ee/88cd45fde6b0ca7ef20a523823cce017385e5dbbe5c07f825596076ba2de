@@ -1,2 +1,0 @@
-
-1651ad8f221cf7877a997569b5944fba282293ca	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/grapheme-splitter","integrity":null,"time":1682678816006,"size":"262","metadata":{"time":1682678816006,"url":"https://registry.npm.taobao.org/grapheme-splitter","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/grapheme-splitter"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-85630d80ef8bcaa16610ba6550cb6644f573ec94	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/semver-compare","integrity":null,"time":1682738613467,"size":"262","metadata":{"time":1682738613467,"url":"https://registry.npm.taobao.org/semver-compare","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:34 GMT","location":"https://registry.npmmirror.com/semver-compare"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-3e1305ef271a746e8f6fdb7a82c66b3535b5b9c7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/mocha","integrity":null,"time":1682738611518,"size":"262","metadata":{"time":1682738611518,"url":"https://registry.npm.taobao.org/mocha","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:32 GMT","location":"https://registry.npmmirror.com/mocha"},"options":{"compress":true},"status":301}}

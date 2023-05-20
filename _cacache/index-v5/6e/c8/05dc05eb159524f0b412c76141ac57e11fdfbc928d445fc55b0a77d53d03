@@ -1,2 +1,0 @@
-
-55ce0842bf317f44d5ef234f6c221accc756d571	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/xml-name-validator","integrity":null,"time":1682678816033,"size":"262","metadata":{"time":1682678816033,"url":"https://registry.npm.taobao.org/xml-name-validator","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/xml-name-validator"},"options":{"compress":true},"status":301}}

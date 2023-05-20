@@ -1,2 +1,0 @@
-
-4fe1c1263068a6b662481f7ceca497bd83b4ebb5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pac-proxy-agent","integrity":null,"time":1679754849039,"size":"262","metadata":{"time":1679754849038,"url":"https://registry.npm.taobao.org/pac-proxy-agent","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:09 GMT","location":"https://registry.npmmirror.com/pac-proxy-agent"},"options":{"compress":true},"status":301}}

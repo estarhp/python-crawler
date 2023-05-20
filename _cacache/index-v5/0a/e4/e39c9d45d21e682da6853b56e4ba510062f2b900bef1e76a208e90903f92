@@ -1,2 +1,0 @@
-
-dc60b3bd6024b22932d3c834b9a9374a03edad9b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/registry-auth-token/-/registry-auth-token-3.3.2.tgz","integrity":null,"time":1682739978261,"size":"262","metadata":{"time":1682739978261,"url":"https://registry.npm.taobao.org/registry-auth-token/-/registry-auth-token-3.3.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:46:19 GMT","location":"https://registry.npmmirror.com/registry-auth-token/-/registry-auth-token-3.3.2.tgz"},"options":{"compress":true},"status":301}}

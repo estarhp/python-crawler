@@ -1,2 +1,0 @@
-
-38c9e5f7ab90dc8c5d97c4b3db7ab9f2883da329	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/mime-db/-/mime-db-1.33.0.tgz","integrity":null,"time":1682739978602,"size":"262","metadata":{"time":1682739978602,"url":"https://registry.npm.taobao.org/mime-db/-/mime-db-1.33.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:46:19 GMT","location":"https://registry.npmmirror.com/mime-db/-/mime-db-1.33.0.tgz"},"options":{"compress":true},"status":301}}

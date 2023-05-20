@@ -1,2 +1,0 @@
-
-ad5be3acadf588419f2596485188114bd112d443	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vscode-textmate","integrity":null,"time":1682738617323,"size":"262","metadata":{"time":1682738617323,"url":"https://registry.npm.taobao.org/vscode-textmate","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:38 GMT","location":"https://registry.npmmirror.com/vscode-textmate"},"options":{"compress":true},"status":301}}

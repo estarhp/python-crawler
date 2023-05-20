@@ -1,2 +1,0 @@
-
-379c271d46d11887c9214fb59d61a775b873d998	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/os-homedir","integrity":null,"time":1679754892641,"size":"262","metadata":{"time":1679754892641,"url":"https://registry.npm.taobao.org/os-homedir","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:53 GMT","location":"https://registry.npmmirror.com/os-homedir"},"options":{"compress":true},"status":301}}

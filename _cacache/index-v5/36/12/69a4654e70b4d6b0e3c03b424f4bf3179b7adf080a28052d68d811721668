@@ -1,2 +1,0 @@
-
-fd0f75d7c4389a262af147ac430b8ffe0b5438c6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/deep-equal/download/deep-equal-1.1.1.tgz","integrity":null,"time":1680430306919,"size":"262","metadata":{"time":1680430306919,"url":"https://registry.npm.taobao.org/deep-equal/download/deep-equal-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:46 GMT","location":"https://registry.npmmirror.com/deep-equal/download/deep-equal-1.1.1.tgz"},"options":{"compress":true},"status":301}}

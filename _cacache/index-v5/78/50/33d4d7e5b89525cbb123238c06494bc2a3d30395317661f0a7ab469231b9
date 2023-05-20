@@ -1,2 +1,0 @@
-
-1bc2bb293b2880bc97967a00fae1a806ab99756b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/trim-newlines","integrity":null,"time":1679754891755,"size":"262","metadata":{"time":1679754891755,"url":"https://registry.npm.taobao.org/trim-newlines","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:52 GMT","location":"https://registry.npmmirror.com/trim-newlines"},"options":{"compress":true},"status":301}}

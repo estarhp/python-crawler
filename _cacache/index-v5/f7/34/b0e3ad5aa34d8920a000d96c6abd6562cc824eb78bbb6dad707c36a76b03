@@ -1,2 +1,0 @@
-
-79372f3d44affae8490eb4e06bb1036cee548d3a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/win-release","integrity":null,"time":1679754847570,"size":"262","metadata":{"time":1679754847570,"url":"https://registry.npm.taobao.org/win-release","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:08 GMT","location":"https://registry.npmmirror.com/win-release"},"options":{"compress":true},"status":301}}

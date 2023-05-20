@@ -1,2 +1,0 @@
-
-289cbd857a70dc6f0e28c0d530ca876c22266412	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/floss","integrity":null,"time":1682738609217,"size":"262","metadata":{"time":1682738609217,"url":"https://registry.npm.taobao.org/floss","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:30 GMT","location":"https://registry.npmmirror.com/floss"},"options":{"compress":true},"status":301}}

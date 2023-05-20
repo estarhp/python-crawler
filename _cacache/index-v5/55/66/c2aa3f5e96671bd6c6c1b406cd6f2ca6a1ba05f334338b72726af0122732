@@ -1,2 +1,0 @@
-
-fa32bb7e5e326df6b83de28e7ce29be04796ebfc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/webpack/-/webpack-5.75.0.tgz","integrity":null,"time":1682739978160,"size":"262","metadata":{"time":1682739978160,"url":"https://registry.npm.taobao.org/webpack/-/webpack-5.75.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:46:19 GMT","location":"https://registry.npmmirror.com/webpack/-/webpack-5.75.0.tgz"},"options":{"compress":true},"status":301}}

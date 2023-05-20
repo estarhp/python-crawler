@@ -1,2 +1,0 @@
-
-7bc45885f574504ebfe9b44479555481eb083b11	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/global-tunnel-ng","integrity":null,"time":1682738612566,"size":"262","metadata":{"time":1682738612566,"url":"https://registry.npm.taobao.org/global-tunnel-ng","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:33 GMT","location":"https://registry.npmmirror.com/global-tunnel-ng"},"options":{"compress":true},"status":301}}

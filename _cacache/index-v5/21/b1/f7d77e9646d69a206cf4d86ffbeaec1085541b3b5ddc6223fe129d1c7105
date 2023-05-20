@@ -1,2 +1,0 @@
-
-777ee7582b663cf7c2dd1f8aea5dfc8c0bd08eef	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/promise-retry","integrity":null,"time":1679754844079,"size":"262","metadata":{"time":1679754844079,"url":"https://registry.npm.taobao.org/promise-retry","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/promise-retry"},"options":{"compress":true},"status":301}}

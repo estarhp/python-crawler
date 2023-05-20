@@ -1,2 +1,0 @@
-
-22b41eb0efaf2cab7dacfbc7db258758d2a29b67	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/bagpipe","integrity":null,"time":1679754843238,"size":"262","metadata":{"time":1679754843238,"url":"https://registry.npm.taobao.org/bagpipe","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/bagpipe"},"options":{"compress":true},"status":301}}

@@ -1,2 +1,0 @@
-
-c662701c7793df86f9a02f1218f7be407349c3ef	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/dts-bundle-generator","integrity":null,"time":1682738608857,"size":"262","metadata":{"time":1682738608857,"url":"https://registry.npm.taobao.org/dts-bundle-generator","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:29 GMT","location":"https://registry.npmmirror.com/dts-bundle-generator"},"options":{"compress":true},"status":301}}

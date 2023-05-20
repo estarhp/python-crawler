@@ -1,2 +1,0 @@
-
-caacbf7b7cc4d542eb83cb809ca1988cf9f2724e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/immutable","integrity":null,"time":1680611549331,"size":"262","metadata":{"time":1680611549331,"url":"https://registry.npm.taobao.org/immutable","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Tue, 04 Apr 2023 12:32:30 GMT","location":"https://registry.npmmirror.com/immutable"},"options":{"compress":true},"status":301}}

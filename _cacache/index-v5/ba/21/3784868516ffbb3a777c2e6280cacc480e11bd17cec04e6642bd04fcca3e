@@ -1,2 +1,0 @@
-
-5aff7a911b633b3cf5a725956a2b0c232ae56ad3	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/npm-install-checks","integrity":null,"time":1679754843946,"size":"262","metadata":{"time":1679754843946,"url":"https://registry.npm.taobao.org/npm-install-checks","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/npm-install-checks"},"options":{"compress":true},"status":301}}
