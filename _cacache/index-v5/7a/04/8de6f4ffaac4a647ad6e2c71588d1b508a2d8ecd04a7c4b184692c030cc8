@@ -1,0 +1,2 @@
+
+ec7c45b33a9e32d480a64cdff8f4946a9a98efef	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@intlify%2fvue-devtools","integrity":null,"time":1682678816093,"size":"262","metadata":{"time":1682678816092,"url":"https://registry.npm.taobao.org/@intlify%2fvue-devtools","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/@intlify%2fvue-devtools"},"options":{"compress":true},"status":301}}

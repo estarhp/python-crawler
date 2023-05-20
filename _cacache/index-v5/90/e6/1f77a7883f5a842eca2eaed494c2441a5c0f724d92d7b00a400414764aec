@@ -1,0 +1,2 @@
+
+be57b6a02710c76ab5538986d1d0595020924eac	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/globalthis","integrity":null,"time":1682738613467,"size":"262","metadata":{"time":1682738613467,"url":"https://registry.npm.taobao.org/globalthis","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:34 GMT","location":"https://registry.npmmirror.com/globalthis"},"options":{"compress":true},"status":301}}

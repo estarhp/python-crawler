@@ -1,0 +1,2 @@
+
+f10570ab78252330bc199be2ef0c2288e207603b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/deep-eql","integrity":null,"time":1682738611518,"size":"262","metadata":{"time":1682738611518,"url":"https://registry.npm.taobao.org/deep-eql","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:32 GMT","location":"https://registry.npmmirror.com/deep-eql"},"options":{"compress":true},"status":301}}

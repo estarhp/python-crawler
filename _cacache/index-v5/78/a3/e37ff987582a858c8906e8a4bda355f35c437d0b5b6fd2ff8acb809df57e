@@ -1,0 +1,2 @@
+
+8d8e8d652e4b8d0c967806193f25b600f0b51702	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/needle","integrity":null,"time":1680628045639,"size":"262","metadata":{"time":1680628045639,"url":"https://registry.npm.taobao.org/needle","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Tue, 04 Apr 2023 17:07:25 GMT","location":"https://registry.npmmirror.com/needle"},"options":{"compress":true},"status":301}}

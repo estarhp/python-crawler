@@ -1,0 +1,2 @@
+
+51a1d43e5ab07281f332465c8f85128a7cccc766	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@npmcli%2farborist","integrity":null,"time":1679754843453,"size":"262","metadata":{"time":1679754843453,"url":"https://registry.npm.taobao.org/@npmcli%2farborist","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/@npmcli%2farborist"},"options":{"compress":true},"status":301}}

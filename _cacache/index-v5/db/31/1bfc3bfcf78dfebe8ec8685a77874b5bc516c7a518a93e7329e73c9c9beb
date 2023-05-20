@@ -1,0 +1,2 @@
+
+b33d4b79c43ac6299077468364f15b5372ab5a70	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/moment","integrity":null,"time":1679754843476,"size":"262","metadata":{"time":1679754843476,"url":"https://registry.npm.taobao.org/moment","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/moment"},"options":{"compress":true},"status":301}}

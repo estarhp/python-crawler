@@ -1,0 +1,2 @@
+
+36d290a2e69356eda9e47e6cb52ff245a7ad4eb8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/http-proxy-agent/download/http-proxy-agent-4.0.1.tgz","integrity":null,"time":1680430306604,"size":"262","metadata":{"time":1680430306604,"url":"https://registry.npm.taobao.org/http-proxy-agent/download/http-proxy-agent-4.0.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/http-proxy-agent/download/http-proxy-agent-4.0.1.tgz"},"options":{"compress":true},"status":301}}

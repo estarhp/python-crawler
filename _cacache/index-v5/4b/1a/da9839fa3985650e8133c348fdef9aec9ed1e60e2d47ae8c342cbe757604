@@ -1,0 +1,2 @@
+
+70c731f7e5b1915c68a6767522b2c8e1b5f90359	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/giturl","integrity":null,"time":1679754843206,"size":"262","metadata":{"time":1679754843206,"url":"https://registry.npm.taobao.org/giturl","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/giturl"},"options":{"compress":true},"status":301}}

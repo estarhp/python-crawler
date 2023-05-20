@@ -1,0 +1,2 @@
+
+c4d7e1836c3d63d16921b714b32cef759d53b092	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vue-cli-plugin-element","integrity":null,"time":1679754891151,"size":"262","metadata":{"time":1679754891151,"url":"https://registry.npm.taobao.org/vue-cli-plugin-element","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:52 GMT","location":"https://registry.npmmirror.com/vue-cli-plugin-element"},"options":{"compress":true},"status":301}}

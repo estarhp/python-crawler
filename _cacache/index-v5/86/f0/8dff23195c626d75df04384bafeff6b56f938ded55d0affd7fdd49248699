@@ -1,0 +1,2 @@
+
+7a26a01fa0ccd5f65ca51edd8f55aef38981578d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/axois","integrity":null,"time":1683000360489,"size":"262","metadata":{"time":1683000360488,"url":"https://registry.npm.taobao.org/axois","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Tue, 02 May 2023 04:06:00 GMT","location":"https://registry.npmmirror.com/axois"},"options":{"compress":true},"status":301}}

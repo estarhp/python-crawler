@@ -1,0 +1,2 @@
+
+feede53b4fa8d78fc6a151eb23e381368b80b831	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/walk-up-path","integrity":null,"time":1679754843956,"size":"262","metadata":{"time":1679754843956,"url":"https://registry.npm.taobao.org/walk-up-path","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/walk-up-path"},"options":{"compress":true},"status":301}}

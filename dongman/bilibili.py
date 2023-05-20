@@ -34,6 +34,7 @@ def downmp4(url,name):
         'referer': 'https://www.bilibili.com/video/BV1hv4y1S7d3/?vd_source=ffeb0ac17cb484d79e30da53310698e9'
     }
     resp=requests.get(url=url,headers=headers)
+    print(url)
     with open(f'{name}.mp4','wb') as file:
         file.write(resp.content)
         print('ok1')

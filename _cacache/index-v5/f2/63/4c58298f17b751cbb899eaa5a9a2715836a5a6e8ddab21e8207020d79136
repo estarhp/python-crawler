@@ -1,0 +1,2 @@
+
+87966778b9a56681590c9c17c299b6972bdc9b33	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@npmcli%2fgit","integrity":null,"time":1679754844052,"size":"262","metadata":{"time":1679754844052,"url":"https://registry.npm.taobao.org/@npmcli%2fgit","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/@npmcli%2fgit"},"options":{"compress":true},"status":301}}

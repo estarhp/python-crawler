@@ -1,0 +1,2 @@
+
+97d95da3701abb34956718b866c0ead8191a1435	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/hasha","integrity":null,"time":1682738614836,"size":"262","metadata":{"time":1682738614836,"url":"https://registry.npm.taobao.org/hasha","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:36 GMT","location":"https://registry.npmmirror.com/hasha"},"options":{"compress":true},"status":301}}

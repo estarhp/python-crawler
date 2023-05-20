@@ -1,0 +1,2 @@
+
+77d8fdb6f856bb3cd30538e12ab8d64181c32fac	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/word-wrap/download/word-wrap-1.2.3.tgz","integrity":null,"time":1680430306264,"size":"262","metadata":{"time":1680430306264,"url":"https://registry.npm.taobao.org/word-wrap/download/word-wrap-1.2.3.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/word-wrap/download/word-wrap-1.2.3.tgz"},"options":{"compress":true},"status":301}}

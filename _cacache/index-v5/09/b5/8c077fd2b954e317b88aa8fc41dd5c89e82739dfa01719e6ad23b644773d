@@ -1,0 +1,2 @@
+
+6b9501febfbed0373c52132ca62117fead24dce6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@eslint%2fjs","integrity":null,"time":1682678816028,"size":"262","metadata":{"time":1682678816028,"url":"https://registry.npm.taobao.org/@eslint%2fjs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/@eslint%2fjs"},"options":{"compress":true},"status":301}}

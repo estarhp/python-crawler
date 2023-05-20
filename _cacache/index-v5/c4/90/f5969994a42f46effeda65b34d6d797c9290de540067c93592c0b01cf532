@@ -1,0 +1,2 @@
+
+f1ab4d8659a6c10caf5532615501cd096965aa4d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/workerpool/-/workerpool-6.2.1.tgz","integrity":null,"time":1680430306269,"size":"262","metadata":{"time":1680430306269,"url":"https://registry.npm.taobao.org/workerpool/-/workerpool-6.2.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/workerpool/-/workerpool-6.2.1.tgz"},"options":{"compress":true},"status":301}}

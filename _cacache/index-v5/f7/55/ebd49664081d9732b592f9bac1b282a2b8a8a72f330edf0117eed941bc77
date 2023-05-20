@@ -1,0 +1,2 @@
+
+3ba617771cbd6522bd854409e1d61ce171fc5990	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/normalize-path/download/normalize-path-3.0.0.tgz","integrity":null,"time":1680430306442,"size":"262","metadata":{"time":1680430306441,"url":"https://registry.npm.taobao.org/normalize-path/download/normalize-path-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/normalize-path/download/normalize-path-3.0.0.tgz"},"options":{"compress":true},"status":301}}

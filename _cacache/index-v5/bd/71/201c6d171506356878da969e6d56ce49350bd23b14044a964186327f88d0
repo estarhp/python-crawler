@@ -1,0 +1,2 @@
+
+d92099c8a1725c24dd5e57ba633ff4c17c694531	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@npmcli%2fpromise-spawn","integrity":null,"time":1679754844054,"size":"262","metadata":{"time":1679754844054,"url":"https://registry.npm.taobao.org/@npmcli%2fpromise-spawn","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/@npmcli%2fpromise-spawn"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+e1c1cdba5e673ac7ca160907bff3b99219fd442d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@tufjs%2fmodels","integrity":null,"time":1679754847280,"size":"262","metadata":{"time":1679754847279,"url":"https://registry.npm.taobao.org/@tufjs%2fmodels","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:08 GMT","location":"https://registry.npmmirror.com/@tufjs%2fmodels"},"options":{"compress":true},"status":301}}

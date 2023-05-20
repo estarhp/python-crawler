@@ -1,0 +1,2 @@
+
+90548da781c7dc7736d1b2d74f21019e3bbbf93e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/xregexp","integrity":null,"time":1679754849298,"size":"262","metadata":{"time":1679754849298,"url":"https://registry.npm.taobao.org/xregexp","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:10 GMT","location":"https://registry.npmmirror.com/xregexp"},"options":{"compress":true},"status":301}}

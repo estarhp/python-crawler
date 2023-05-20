@@ -1,0 +1,2 @@
+
+bb0f471412140d80d02b6aa53d27ab9c12a7a24d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@floating-ui%2fdom","integrity":null,"time":1683290616270,"size":"262","metadata":{"time":1683290616270,"url":"https://registry.npm.taobao.org/@floating-ui%2fdom","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 05 May 2023 12:43:36 GMT","location":"https://registry.npmmirror.com/@floating-ui%2fdom"},"options":{"compress":true},"status":301}}

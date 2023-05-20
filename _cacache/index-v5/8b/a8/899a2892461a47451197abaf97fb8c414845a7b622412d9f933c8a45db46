@@ -1,0 +1,2 @@
+
+f09f00c672f4d8ae5971fe4c9fd08469cd59fd31	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/binary-mirror-config","integrity":null,"time":1679754843459,"size":"262","metadata":{"time":1679754843458,"url":"https://registry.npm.taobao.org/binary-mirror-config","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/binary-mirror-config"},"options":{"compress":true},"status":301}}

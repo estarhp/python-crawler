@@ -1,0 +1,2 @@
+
+ef796cd6e5ddbdb122599f98dcefed7d6c92b007	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/smart-buffer","integrity":null,"time":1679754847361,"size":"262","metadata":{"time":1679754847361,"url":"https://registry.npm.taobao.org/smart-buffer","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:08 GMT","location":"https://registry.npmmirror.com/smart-buffer"},"options":{"compress":true},"status":301}}

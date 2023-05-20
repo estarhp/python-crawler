@@ -1,0 +1,2 @@
+
+3f9da9968de66f50ea750bd1f3139f86b45fd6ad	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@quasar%2fvite-plugin","integrity":null,"time":1682678815955,"size":"262","metadata":{"time":1682678815954,"url":"https://registry.npm.taobao.org/@quasar%2fvite-plugin","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/@quasar%2fvite-plugin"},"options":{"compress":true},"status":301}}

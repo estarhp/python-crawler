@@ -1,0 +1,2 @@
+
+66e0b24ac6733e9d095a8c025a1b38cf01f474aa	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/istanbul-lib-instrument","integrity":null,"time":1682738611445,"size":"262","metadata":{"time":1682738611445,"url":"https://registry.npm.taobao.org/istanbul-lib-instrument","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:32 GMT","location":"https://registry.npmmirror.com/istanbul-lib-instrument"},"options":{"compress":true},"status":301}}

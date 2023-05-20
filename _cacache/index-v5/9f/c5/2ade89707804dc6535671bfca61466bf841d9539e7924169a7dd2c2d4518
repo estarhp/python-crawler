@@ -1,0 +1,2 @@
+
+ead531d21e134157785f9643595ec1b53ef07a93	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@quasar%2fapp-vite","integrity":null,"time":1682678814273,"size":"262","metadata":{"time":1682678814273,"url":"https://registry.npm.taobao.org/@quasar%2fapp-vite","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:54 GMT","location":"https://registry.npmmirror.com/@quasar%2fapp-vite"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+749322a4c5fa2b10c834e70d85ce6dae101d6668	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/promise-all-reject-late","integrity":null,"time":1679754843949,"size":"262","metadata":{"time":1679754843949,"url":"https://registry.npm.taobao.org/promise-all-reject-late","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/promise-all-reject-late"},"options":{"compress":true},"status":301}}

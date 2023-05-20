@@ -1,0 +1,2 @@
+
+56c1d41b9866f3647a274e1ef352b70be7bf9be2	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/benz-recorderjs","integrity":null,"time":1683301091414,"size":"262","metadata":{"time":1683301091413,"url":"https://registry.npm.taobao.org/benz-recorderjs","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 05 May 2023 15:38:11 GMT","location":"https://registry.npmmirror.com/benz-recorderjs"},"options":{"compress":true},"status":301}}

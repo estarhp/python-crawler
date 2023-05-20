@@ -1,0 +1,2 @@
+
+aa85d531b6f00993e6dde2d8d347c4e1970f3ebe	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@intlify%2fbundle-utils","integrity":null,"time":1682678815919,"size":"262","metadata":{"time":1682678815919,"url":"https://registry.npm.taobao.org/@intlify%2fbundle-utils","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/@intlify%2fbundle-utils"},"options":{"compress":true},"status":301}}

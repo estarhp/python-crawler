@@ -1,0 +1,2 @@
+
+ffe4b9f6b63dab5c06a06964f42d84ed271c447f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/lodash.flatten","integrity":null,"time":1682678818882,"size":"262","metadata":{"time":1682678818882,"url":"https://registry.npm.taobao.org/lodash.flatten","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:59 GMT","location":"https://registry.npmmirror.com/lodash.flatten"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+5e69c224c138dce9e9046b82284e9e7bd3043b45	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/minizlib","integrity":null,"time":1679754844092,"size":"262","metadata":{"time":1679754844091,"url":"https://registry.npm.taobao.org/minizlib","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/minizlib"},"options":{"compress":true},"status":301}}

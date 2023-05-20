@@ -1,0 +1,2 @@
+
+aea1c926ac7e75d430ff6f677a76292e80c8b866	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/electron","integrity":null,"time":1682738608997,"size":"262","metadata":{"time":1682738608997,"url":"https://registry.npm.taobao.org/electron","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:29 GMT","location":"https://registry.npmmirror.com/electron"},"options":{"compress":true},"status":301}}

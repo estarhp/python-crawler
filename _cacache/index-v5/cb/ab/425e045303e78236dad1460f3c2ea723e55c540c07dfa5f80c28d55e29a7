@@ -1,0 +1,2 @@
+
+95455f0c2f6bb2e9a413172bea76f8f42378248e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/formdata-node","integrity":null,"time":1679754843520,"size":"262","metadata":{"time":1679754843520,"url":"https://registry.npm.taobao.org/formdata-node","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/formdata-node"},"options":{"compress":true},"status":301}}

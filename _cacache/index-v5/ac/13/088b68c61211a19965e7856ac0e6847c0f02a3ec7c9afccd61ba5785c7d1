@@ -1,0 +1,2 @@
+
+53469205dc822dd0f99586cf4a3fdfea4416a0df	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/web-streams-polyfill","integrity":null,"time":1679754847462,"size":"262","metadata":{"time":1679754847462,"url":"https://registry.npm.taobao.org/web-streams-polyfill","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:08 GMT","location":"https://registry.npmmirror.com/web-streams-polyfill"},"options":{"compress":true},"status":301}}

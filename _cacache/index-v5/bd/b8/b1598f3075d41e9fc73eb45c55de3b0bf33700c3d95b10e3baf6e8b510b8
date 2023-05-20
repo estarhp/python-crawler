@@ -1,0 +1,2 @@
+
+c9086535e6fbf2afadce6402dea974aca3fe361a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/npm-packlist","integrity":null,"time":1679754844080,"size":"262","metadata":{"time":1679754844080,"url":"https://registry.npm.taobao.org/npm-packlist","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/npm-packlist"},"options":{"compress":true},"status":301}}

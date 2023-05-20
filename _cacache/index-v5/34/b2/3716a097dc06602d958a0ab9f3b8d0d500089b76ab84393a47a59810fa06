@@ -1,0 +1,2 @@
+
+4c96dfead827690f8c74da6c27cc9495c59fd440	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/string_decoder/download/string_decoder-0.10.31.tgz","integrity":null,"time":1680430306321,"size":"262","metadata":{"time":1680430306321,"url":"https://registry.npm.taobao.org/string_decoder/download/string_decoder-0.10.31.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/string_decoder/download/string_decoder-0.10.31.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+875002eb29b822b6202343edf719fa2f2d674ff0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ip/download/ip-1.1.5.tgz","integrity":null,"time":1680430306576,"size":"262","metadata":{"time":1680430306576,"url":"https://registry.npm.taobao.org/ip/download/ip-1.1.5.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/ip/download/ip-1.1.5.tgz"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+9d5b6417d6bea941fff7bb15c628bbea6ab9b2b4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/lunr","integrity":null,"time":1682738611464,"size":"262","metadata":{"time":1682738611464,"url":"https://registry.npm.taobao.org/lunr","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:32 GMT","location":"https://registry.npmmirror.com/lunr"},"options":{"compress":true},"status":301}}

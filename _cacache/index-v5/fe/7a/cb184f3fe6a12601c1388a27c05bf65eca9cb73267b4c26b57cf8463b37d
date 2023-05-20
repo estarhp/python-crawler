@@ -1,0 +1,2 @@
+
+061cf843b21763ec0d2cfa182530eb048163314f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/eslint-config-prettier","integrity":null,"time":1682678815591,"size":"262","metadata":{"time":1682678815591,"url":"https://registry.npm.taobao.org/eslint-config-prettier","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:55 GMT","location":"https://registry.npmmirror.com/eslint-config-prettier"},"options":{"compress":true},"status":301}}

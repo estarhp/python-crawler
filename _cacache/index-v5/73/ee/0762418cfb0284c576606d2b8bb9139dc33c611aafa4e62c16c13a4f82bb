@@ -1,0 +1,2 @@
+
+f4e7b8c6ff110a6e849eaf39f783c645a3aad231	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/readdir-glob","integrity":null,"time":1682678817570,"size":"262","metadata":{"time":1682678817570,"url":"https://registry.npm.taobao.org/readdir-glob","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:57 GMT","location":"https://registry.npmmirror.com/readdir-glob"},"options":{"compress":true},"status":301}}

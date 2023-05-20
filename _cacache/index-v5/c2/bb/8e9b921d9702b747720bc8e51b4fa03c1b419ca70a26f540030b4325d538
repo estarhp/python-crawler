@@ -1,0 +1,2 @@
+
+4004bae7cb321a3792b0f2ac70f3706e7771b819	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@npmcli%2fnode-gyp","integrity":null,"time":1679754843929,"size":"262","metadata":{"time":1679754843929,"url":"https://registry.npm.taobao.org/@npmcli%2fnode-gyp","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:04 GMT","location":"https://registry.npmmirror.com/@npmcli%2fnode-gyp"},"options":{"compress":true},"status":301}}

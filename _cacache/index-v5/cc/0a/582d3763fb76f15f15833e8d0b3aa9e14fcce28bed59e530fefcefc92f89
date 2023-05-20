@@ -1,0 +1,2 @@
+
+eb5d64d9b69ec7168f88e37efbf6eff24ba1fa78	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz","integrity":null,"time":1680430306656,"size":"262","metadata":{"time":1680430306656,"url":"https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 02 Apr 2023 10:11:45 GMT","location":"https://registry.npmmirror.com/function-bind/download/function-bind-1.1.1.tgz"},"options":{"compress":true},"status":301}}

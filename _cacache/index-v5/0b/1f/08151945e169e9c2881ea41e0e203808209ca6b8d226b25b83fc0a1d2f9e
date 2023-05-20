@@ -1,0 +1,2 @@
+
+99967a2c34e699e9fc549d355c7cfdf75aaf17e6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/shortid","integrity":null,"time":1679914449458,"size":"262","metadata":{"time":1679914449458,"url":"https://registry.npm.taobao.org/shortid","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Mon, 27 Mar 2023 10:54:09 GMT","location":"https://registry.npmmirror.com/shortid"},"options":{"compress":true},"status":301}}

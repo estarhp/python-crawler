@@ -1,0 +1,2 @@
+
+fa1a3a5493ed6b48c4442a47794a770fe83c28a1	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/elementtree","integrity":null,"time":1682678815935,"size":"262","metadata":{"time":1682678815935,"url":"https://registry.npm.taobao.org/elementtree","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:56 GMT","location":"https://registry.npmmirror.com/elementtree"},"options":{"compress":true},"status":301}}

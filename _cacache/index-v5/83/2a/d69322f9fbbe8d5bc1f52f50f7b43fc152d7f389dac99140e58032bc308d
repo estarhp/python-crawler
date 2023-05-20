@@ -1,0 +1,2 @@
+
+cf4126f4b635f0014d39c1ba7f7df407102a491e	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/fromentries","integrity":null,"time":1682738614835,"size":"262","metadata":{"time":1682738614835,"url":"https://registry.npm.taobao.org/fromentries","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 29 Apr 2023 03:23:35 GMT","location":"https://registry.npmmirror.com/fromentries"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+86c31db0982e6611fca0b049711b2e2ee829e9f0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/minipass-flush","integrity":null,"time":1679754844375,"size":"262","metadata":{"time":1679754844375,"url":"https://registry.npm.taobao.org/minipass-flush","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:05 GMT","location":"https://registry.npmmirror.com/minipass-flush"},"options":{"compress":true},"status":301}}

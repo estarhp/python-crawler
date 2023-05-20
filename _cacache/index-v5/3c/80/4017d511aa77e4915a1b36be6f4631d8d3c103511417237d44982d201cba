@@ -1,0 +1,2 @@
+
+b65e0a491cb3535ecf00acb929485d89d817b77a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@gar%2fpromisify","integrity":null,"time":1679754848859,"size":"262","metadata":{"time":1679754848859,"url":"https://registry.npm.taobao.org/@gar%2fpromisify","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:09 GMT","location":"https://registry.npmmirror.com/@gar%2fpromisify"},"options":{"compress":true},"status":301}}

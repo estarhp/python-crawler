@@ -1,0 +1,2 @@
+
+c6010e413fc760eb53136b682319628c7a9dbf67	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/just-diff","integrity":null,"time":1679754844376,"size":"262","metadata":{"time":1679754844376,"url":"https://registry.npm.taobao.org/just-diff","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sat, 25 Mar 2023 14:34:05 GMT","location":"https://registry.npmmirror.com/just-diff"},"options":{"compress":true},"status":301}}

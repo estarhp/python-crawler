@@ -1,0 +1,2 @@
+
+75664233daa57b8a15d6b642dd83c989456bb326	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vue-i18n","integrity":null,"time":1682678813203,"size":"262","metadata":{"time":1682678813203,"url":"https://registry.npm.taobao.org/vue-i18n","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Fri, 28 Apr 2023 10:46:53 GMT","location":"https://registry.npmmirror.com/vue-i18n"},"options":{"compress":true},"status":301}}
