@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-electron-vite": "^0.3.0"
+  }
+}
